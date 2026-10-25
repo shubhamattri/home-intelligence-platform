@@ -1,0 +1,245 @@
+{
+ "historical": [
+  {
+   "corridor": "Whitefield",
+   "trigger": "ITPL (International Tech Park Bangalore) + EPIP export-promotion IT boom, later amplified by Namma Metro Purple Line extension to Whitefield (Kadugodi)",
+   "trigger_year": "1994 (ITPB) / 2023 (Purple Line metro)",
+   "psf_then": 3000,
+   "psf_now": 14500,
+   "multiple": "5x",
+   "sources": [
+    "https://en.wikipedia.org/wiki/International_Tech_Park,_Bengaluru",
+    "https://www.mahindralifespaces.com/blog/whitefield-real-estate-trends-investment-insights/",
+    "https://www.squareyards.com/property-rates/whitefield-bangalore",
+    "https://themetrorailguy.com/2023/10/08/bangalore-metros-purple-line-to-be-extended-beyond-whitefield/"
+   ]
+  },
+  {
+   "corridor": "Koramangala",
+   "trigger": "Forum Mall (2004, Bangalore's first full-fledged mall) + IT/startup-hub boom (Flipkart, Ola, InMobi, Myntra), IIM-Bangalore proximity and Electronic City/ORR connectivity",
+   "trigger_year": "2004",
+   "psf_then": 3000,
+   "psf_now": 15000,
+   "multiple": "5x",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nexus_Mall_(Koramangala)",
+    "https://www.sobha.com/blog/koramangala-bangalore-overview/",
+    "https://www.99acres.com/property-rates-and-price-trends-in-koramangala-bangalore-south-prffid",
+    "https://myhq.in/blog/office-space/koramangala-startup-hub/"
+   ]
+  },
+  {
+   "corridor": "Indiranagar",
+   "trigger": "100 Feet Road commercialization into a top retail/F&B high street + Namma Metro Purple Line Indira Nagar station, amplified by 1990s-2000s IT boom and CBD/MG Road proximity",
+   "trigger_year": "2011 (Purple Line Indira Nagar station)",
+   "psf_then": 4000,
+   "psf_now": 19500,
+   "multiple": "5x",
+   "sources": [
+    "https://newskarnataka.com/karnataka/bengaluru/indiranagars-evolution-from-serene-suburb-to-bengalurus-luxury-magnet/26012025/",
+    "https://tradebrains.in/money/how-much-have-property-prices-increased-near-namma-metro-stations-in-the-last-10-years-a-station-by-station-analysis/",
+    "https://en.wikipedia.org/wiki/Indira_Nagar_metro_station_(Bengaluru)",
+    "https://en.wikipedia.org/wiki/100_Feet_Road,_Bengaluru"
+   ]
+  },
+  {
+   "corridor": "BTM Layout / HSR Layout",
+   "trigger": "Outer Ring Road employment belt + Silk Board flyover connectivity to Electronic City & Sarjapur/ORR tech corridor; HSR later became Bangalore's first officially recognized startup hub",
+   "trigger_year": "2002-2014 (ORR done 1996-2002; startup-hub inflection ~2010-2014)",
+   "psf_then": 3800,
+   "psf_now": 13000,
+   "multiple": "3.4x",
+   "sources": [
+    "https://www.99acres.com/property-rates-and-price-trends-in-btm-layout-bangalore-south-prffid",
+    "https://www.commonfloor.com/guide/property-prices-in-btm-layout-climb-up-the-ladder-30213",
+    "https://beegru.com/en-IN/blog/vidya-singhania/hsr-layout-investment-guide-2025-bangalore-property-analysis",
+    "https://www.squareyards.com/property-rates/hsr-layout-bangalore"
+   ]
+  },
+  {
+   "corridor": "Bellandur / Sarjapur Road",
+   "trigger": "Outer Ring Road (ORR) IT corridor completion opening land to IT campuses — RMZ Ecospace (2006), Embassy's ORR tech park, RMZ Ecoworld (2016) — creating Bangalore's densest tech-employment belt",
+   "trigger_year": "2002",
+   "psf_then": 2500,
+   "psf_now": 12000,
+   "multiple": "4.8x",
+   "sources": [
+    "https://abheeventures.com/blog/sarjapur-road-property-price-trends/",
+    "https://www.99acres.com/property-rates-and-price-trends-in-sarjapur-road-bangalore-east-prffid",
+    "https://www.hexahome.in/blog/guides/rmz-ecoworld-road-bangalore-guides/",
+    "https://en.wikipedia.org/wiki/Bellandur"
+   ]
+  },
+  {
+   "corridor": "Hebbal / Thanisandra",
+   "trigger": "Manyata Embassy Business Park (IT hub on ORR, ~300 acres, opened 2001) + Kempegowda International Airport on Bellary Road/NH-44 (opened May 2008), reinforced by ORR connectivity and upcoming metro",
+   "trigger_year": "2008",
+   "psf_then": 3500,
+   "psf_now": 12000,
+   "multiple": "3.5x",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Manyata_Embassy_Business_Park",
+    "https://en.wikipedia.org/wiki/Kempegowda_International_Airport",
+    "https://therealtytoday.com/news/market-insights/housing-prices-in-sarjapur-and-thanisandra-surge-80-in-35-years-anarock-report/",
+    "https://www.99acres.com/property-rates-and-price-trends-in-thanisandra-bangalore-north-prffid"
+   ]
+  }
+ ],
+ "emerging": [
+  {
+   "corridor": "Devanahalli / Bangalore Airport Belt",
+   "leading_indicators": [
+    "Namma Metro Blue Line (ORR-Airport corridor, KIAL + Doddajala stations)",
+    "KIA Terminal 2 + second parallel runway",
+    "KIADB Aerospace Park (Boeing/Airbus/Wipro; SAP, NTT Data campuses)",
+    "Foxconn iPhone plant (~30,000 workers)",
+    "Bangalore Airport City / KWIN City township",
+    "Peripheral Ring Road (PRR)",
+    "STRR"
+   ],
+   "current_psf": 11350,
+   "infra_status": "UC",
+   "growth_thesis": "Airport metro + aerospace/GCC job engine + Foxconn manufacturing base convert a low-base airport fringe into North Bengaluru's fastest-appreciating micro-market (~13.5% CAGR).",
+   "sources": [
+    "https://nxtfootstep.com/property-prices-in-devanahalli-north-bangalore-2026-complete-guide/",
+    "https://swarajyamag.com/news-brief/bengaluru-metro-to-begin-blue-line-trial-runs-on-outer-ring-road-corridor-by-october-2026",
+    "https://tradebrains.in/money/why-kiadb-aerospace-park-is-emerging-as-a-major-investment-hub-in-north-bengaluru/",
+    "https://www.deccanherald.com/business/companies/foxconn-hires-30000-workers-in-eight-months-at-devanahalli-plant-3839766"
+   ]
+  },
+  {
+   "corridor": "North Bangalore / Bagalur (Aerospace SEZ belt)",
+   "leading_indicators": [
+    "KIADB Aerospace Park & ~980-acre Aerospace SEZ (Boeing/Airbus/Safran/Collins)",
+    "KIADB IT Hardware Park (~47 electronics firms)",
+    "BIAL ITIR + Foxconn ~300-acre campus",
+    "proposed GCC-IT Park (~1.33M sqft)",
+    "Blue Line Metro (ORR-Airport)",
+    "PRR north segment"
+   ],
+   "current_psf": 10150,
+   "infra_status": "operational",
+   "growth_thesis": "Airport + live aerospace/hardware SEZ + incoming GCC-IT campuses turn a low-base agrarian belt into North Bangalore's highest long-run appreciation corridor, with metro/PRR as next re-rating catalysts.",
+   "sources": [
+    "https://www.99acres.com/property-rates-and-price-trends-in-bagalur-bangalore-north-prffid",
+    "https://tradebrains.in/money/why-kiadb-aerospace-park-is-emerging-as-a-major-investment-hub-in-north-bengaluru/",
+    "https://booknewproperty.com/news/gcc-it-park-devanahalli-itir-bengaluru/",
+    "https://en.wikipedia.org/wiki/Blue_Line_(Namma_Metro)"
+   ]
+  },
+  {
+   "corridor": "Sarjapur Road / Sarjapur East",
+   "leading_indicators": [
+    "Hebbal-Sarjapur Metro Phase 3A (36.59km, ₹28,405cr, Cabinet-approved)",
+    "Peripheral Ring Road / Bengaluru Business Corridor (74km)",
+    "Infosys 202-acre IT SEZ (forward catalyst)",
+    "Wipro SEZ, RGA Tech Park, Global Technology Park",
+    "direct links to Electronic City / ORR / Whitefield"
+   ],
+   "current_psf": 12000,
+   "infra_status": "announced",
+   "growth_thesis": "Proven IT-employment corridor (+84% over 3yr) now consolidating flat, with two large announced catalysts (Hebbal-Sarjapur metro + PRR) positioned to re-accelerate once construction visibly begins.",
+   "sources": [
+    "https://railanalysis.in/rail-news/bangalore-metro-phase-3a-karnataka-cabinet-approves-rs-28405-crore-sarjapur-hebbal-metro-corridor/",
+    "https://www.deccanherald.com/india/karnataka/bengaluru/hebbal-sarjapur-metro-line-okayed-by-finance-dept-3265258",
+    "https://websitemedia.anarock.com/media/Bengaluru_Q1_2026_Residential_Market_Viewpoints_84d41ec09a.pdf",
+    "https://www.99acres.com/property-rates-and-price-trends-in-sarjapur-road-bangalore-east-prffid"
+   ]
+  },
+  {
+   "corridor": "Electronic City Phase 2",
+   "leading_indicators": [
+    "Yellow Line Metro (RV Road-Bommasandra, 3 EC stations, live Aug 2025)",
+    "GCC/IT SEZ density (TCS 1.4M sqft, Tech Mahindra, HPE, Bosch, Biocon)",
+    "Electronic City Elevated Expressway",
+    "NICE Road / ORR",
+    "PRR"
+   ],
+   "current_psf": 8000,
+   "infra_status": "operational",
+   "growth_thesis": "Metro-connected (Yellow Line operational) IT/GCC hub with the lowest entry price of any south-Bangalore tech corridor; Phase 2 posted ~43% YoY with durable GCC leasing upside.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Yellow_Line_(Namma_Metro)",
+    "https://estatehive.in/blog/new-projects-electronic-city-2026",
+    "https://www.deccanherald.com/india/karnataka/bengaluru/namma-metro-yellow-line-to-be-inaugurated-by-pm-modi-on-august-10-frequency-25-mins-3663186",
+    "https://www.nobroker.in/blog/electronic-city-metro-station-bangalore/"
+   ]
+  },
+  {
+   "corridor": "Chandapura - Attibele",
+   "leading_indicators": [
+    "Yellow Line Metro terminus at Bommasandra (operational Aug 2025)",
+    "Bommasandra-Hosur interstate metro extension (23km, feasibility)",
+    "STRR (Attibele/Anekal nodes)",
+    "Hosur EV/manufacturing spillover (Tata Electronics, Ola, Ather/TVS)",
+    "Electronics City ELCITA/ELCIA industrial anchor"
+   ],
+   "current_psf": 6600,
+   "infra_status": "operational",
+   "growth_thesis": "Operational Yellow Line at Bommasandra + STRR Attibele link + Hosur's EV-manufacturing job engine convert an affordable ₹6,600/sqft corridor into Bangalore's next south-peripheral appreciation belt (~9% YoY).",
+   "sources": [
+    "https://www.99acres.com/property-rates-and-price-trends-in-chandapura-bangalore-south-prffid",
+    "https://www.sobha.com/blog/attibele-bangalore-real-estate-overview/",
+    "https://www.deccanherald.com/india/karnataka/bengaluru/karnataka-okays-proposal-to-build-205-km-metro-line-to-hosur-1116578",
+    "https://www.oneindia.com/bengaluru/bengalurus-satellite-town-ring-road-hoskote-to-tamil-nadu-border-set-to-open-by-june-2026-8052537.html"
+   ]
+  },
+  {
+   "corridor": "Hoskote",
+   "leading_indicators": [
+    "Satellite Town Ring Road (STRR/NH-948A, Hoskote-Hosur ~99% done, June 2026 target)",
+    "KIADB Hoskote Industrial Area",
+    "warehousing/logistics parks (Sumadhura ~100-500 acres, Welspun One ~51 acres)",
+    "Bengaluru-Chennai Expressway (adjacent)",
+    "NH-75 Old Madras Road",
+    "proposed KR Puram-Hoskote metro (DPR stage)"
+   ],
+   "current_psf": 6150,
+   "infra_status": "UC",
+   "growth_thesis": "Logistics-and-industrial land-use flip (KIADB + Sumadhura/Welspun warehousing) with near-complete STRR unlocking a full ring bypass, converting a cheap NH-75 outer node into an East-Bangalore appreciation corridor.",
+   "sources": [
+    "https://www.oneindia.com/bengaluru/bengalurus-satellite-town-ring-road-hoskote-to-tamil-nadu-border-set-to-open-by-june-2026-8052537.html",
+    "https://www.99acres.com/property-rates-and-price-trends-in-hoskote-bangalore-east-prffid",
+    "https://sumadhuragroup.com/projects/sumadhura-logistics-park.php",
+    "https://en.wikipedia.org/wiki/Bengaluru%E2%80%93Chennai_Expressway"
+   ]
+  },
+  {
+   "corridor": "Kanakapura Road",
+   "leading_indicators": [
+    "Green Line Metro spine (terminus Silk Institute, operational since Jan 2021)",
+    "NICE Road (~20-25 min to Electronic City GCCs)",
+    "PRR Phase 2 (40km south extension, feasibility)",
+    "NICE junction-Kanakapura four-laning",
+    "Konanakunte Cross commercial node"
+   ],
+   "current_psf": 10350,
+   "infra_status": "operational",
+   "growth_thesis": "Operational Green Line spine + NICE Road's 20-min link to Electronic City GCCs, with PRR-2 as next catalyst, drives steady ~15% YoY flat appreciation on a corridor still priced below eastern-Bangalore hubs.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Green_Line_(Namma_Metro)",
+    "https://www.99acres.com/property-rates-and-price-trends-in-kanakapura-road-bangalore-south-prffid",
+    "https://www.puravankara.com/real-estate-blog/vajrahalli-real-estate-2026-metro-led-growth-liveability-and-price-drivers-near-kanakapura-road"
+   ]
+  },
+  {
+   "corridor": "Tumkur Road / Nelamangala",
+   "leading_indicators": [
+    "Green Line Metro operational to Madavara/Chikkabidarakallu (opened Nov 2024)",
+    "proposed metro extension Madavara-Tumakuru (₹20,649cr, DPR stage)",
+    "STRR (Dobbaspet-Doddaballapur-Hoskote open)",
+    "KIADB industrial takeover (~2,800 acres), ABB investment, KWIN City / Dabaspet-Peenya industrial belt",
+    "NH-48 corridor + BIEC exhibition centre"
+   ],
+   "current_psf": 5700,
+   "infra_status": "operational",
+   "growth_thesis": "Nelamangala/outer Tumkur Road node riding STRR completion + KIADB/KWIN City industrial land-use flip (land +39% YoY) with metro creeping outward — cheapest large emerging corridor in the west.",
+   "sources": [
+    "https://www.99acres.com/property-rates-and-price-trends-in-nelamangala-bangalore-west-prffid",
+    "https://www.knssamooha.net.in/about-nelamangala-bangalore/how-strr-will-impact-land-prices-in-nelamangala.html",
+    "https://www.deccanherald.com/india/karnataka/bengaluru-metro-extension-to-tumakuru-likely-to-cost-rs-20649-cr-parameshwara-3747490",
+    "https://en.wikipedia.org/wiki/Chikkabidarakallu_metro_station"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+[
+ {
+  "hospital": "Aster CMI Hebbal",
+  "cardiac_gate_pass": true,
+  "quality_score": 0.98,
+  "accreditation": "NABH+JCI",
+  "specialty_depth": 1.0,
+  "beds": 500,
+  "cost_tier": "premium",
+  "confidence": "A"
+ },
+ {
+  "hospital": "Ramaiah Memorial",
+  "cardiac_gate_pass": true,
+  "quality_score": 0.898,
+  "accreditation": "NABH+JCI",
+  "specialty_depth": 1.0,
+  "beds": 500,
+  "cost_tier": "premium",
+  "confidence": "A"
+ },
+ {
+  "hospital": "Manipal Old Airport Road",
+  "cardiac_gate_pass": true,
+  "quality_score": 0.835,
+  "accreditation": "NABH",
+  "specialty_depth": 1.0,
+  "beds": 600,
+  "cost_tier": "premium",
+  "confidence": "C"
+ },
+ {
+  "hospital": "Sparsh Hospital",
+  "cardiac_gate_pass": true,
+  "quality_score": 0.823,
+  "accreditation": "NABH",
+  "specialty_depth": 1.0,
+  "beds": 400,
+  "cost_tier": "premium",
+  "confidence": "A"
+ },
+ {
+  "hospital": "Narayana Institute of Cardiac Sciences",
+  "cardiac_gate_pass": true,
+  "quality_score": 0.814,
+  "accreditation": "NABH+JCI",
+  "specialty_depth": 1.0,
+  "beds": 606,
+  "cost_tier": "mid",
+  "confidence": "A"
+ },
+ {
+  "hospital": "BGS Gleneagles",
+  "cardiac_gate_pass": true,
+  "quality_score": 0.805,
+  "accreditation": "NABH+JCI",
+  "specialty_depth": 1.0,
+  "beds": 450,
+  "cost_tier": "premium",
+  "confidence": "C"
+ },
+ {
+  "hospital": "Apollo Bannerghatta",
+  "cardiac_gate_pass": true,
+  "quality_score": 0.802,
+  "accreditation": "NABH+JCI",
+  "specialty_depth": 1.0,
+  "beds": 250,
+  "cost_tier": "premium",
+  "confidence": "C"
+ },
+ {
+  "hospital": "Manipal Whitefield",
+  "cardiac_gate_pass": true,
+  "quality_score": 0.772,
+  "accreditation": "NABH",
+  "specialty_depth": 1.0,
+  "beds": 284,
+  "cost_tier": "premium",
+  "confidence": "C"
+ },
+ {
+  "hospital": "Sakra World",
+  "cardiac_gate_pass": true,
+  "quality_score": 0.751,
+  "accreditation": "NABH",
+  "specialty_depth": 1.0,
+  "beds": 350,
+  "cost_tier": "premium",
+  "confidence": "A"
+ },
+ {
+  "hospital": "Fortis Bannerghatta",
+  "cardiac_gate_pass": true,
+  "quality_score": 0.722,
+  "accreditation": "NABH+JCI",
+  "specialty_depth": 1.0,
+  "beds": 284,
+  "cost_tier": "premium",
+  "confidence": "C"
+ },
+ {
+  "hospital": "St John's Medical College",
+  "cardiac_gate_pass": true,
+  "quality_score": 0.615,
+  "accreditation": "NABH",
+  "specialty_depth": 0.7,
+  "beds": 1350,
+  "cost_tier": "budget",
+  "confidence": "B"
+ },
+ {
+  "hospital": "Sri Jayadeva Institute of Cardiology",
+  "cardiac_gate_pass": true,
+  "quality_score": 0.535,
+  "accreditation": "NABH",
+  "specialty_depth": 0.7,
+  "beds": 1150,
+  "cost_tier": "budget",
+  "confidence": "C"
+ }
+]

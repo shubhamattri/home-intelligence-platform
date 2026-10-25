@@ -1,0 +1,15 @@
+# keep build context small and free of secrets
+.git
+.venv
+**/.venv
+**/__pycache__
+**/*.pyc
+.pytest_cache
+.mypy_cache
+.ruff_cache
+/deploy
+# secrets
+**/*.key
+**/.env
+**/*session*.json
+**/.tomtom_key

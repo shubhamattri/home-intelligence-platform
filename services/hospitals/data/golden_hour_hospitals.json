@@ -1,0 +1,284 @@
+[
+ {
+  "verified_name": "Manipal Hospital, Old Airport Road, Bangalore",
+  "matched_osm_name": "Manipal Hospitals Whitefield",
+  "lat": 12.9596781,
+  "lon": 77.6492376,
+  "area": "Whitefield Main Road Bangalore 560048",
+  "bed_count": 650,
+  "capabilities_verified": {
+   "cath_lab_24x7": true,
+   "cardiac_surgery": true,
+   "stroke_ready": true,
+   "trauma_emergency_24x7": true,
+   "nicu": true,
+   "picu": true,
+   "blood_bank": true,
+   "nabh_or_jci_accredited": true
+  },
+  "source": "web-research (sourced)"
+ },
+ {
+  "verified_name": "Fortis Hospital, Bannerghatta Road, Bangalore",
+  "matched_osm_name": "Fortis Hospitals, Bannerghatta Road",
+  "lat": 12.8947508,
+  "lon": 77.5986762,
+  "area": "560076",
+  "bed_count": 284,
+  "capabilities_verified": {
+   "cath_lab_24x7": true,
+   "cardiac_surgery": true,
+   "stroke_ready": true,
+   "trauma_emergency_24x7": true,
+   "nicu": true,
+   "picu": true,
+   "blood_bank": true,
+   "nabh_or_jci_accredited": true
+  },
+  "source": "web-research (sourced)"
+ },
+ {
+  "verified_name": "Apollo Hospital, Bannerghatta Road, Bangalore",
+  "matched_osm_name": "Apollo Hospital",
+  "lat": 12.8962983,
+  "lon": 77.5982851,
+  "area": "Bannerghatta Road Bangalore 560076",
+  "bed_count": 250,
+  "capabilities_verified": {
+   "cath_lab_24x7": true,
+   "cardiac_surgery": true,
+   "stroke_ready": true,
+   "trauma_emergency_24x7": true,
+   "nicu": true,
+   "picu": true,
+   "blood_bank": true,
+   "nabh_or_jci_accredited": true
+  },
+  "source": "web-research (sourced)"
+ },
+ {
+  "verified_name": "Narayana Health City, Bommasandra, Bangalore",
+  "matched_osm_name": "Narayana Health City / Mazumdar Shaw Medical Centre, Bommasandra",
+  "lat": 12.8005,
+  "lon": 77.688,
+  "area": null,
+  "bed_count": 606,
+  "capabilities_verified": {
+   "cath_lab_24x7": true,
+   "cardiac_surgery": true,
+   "stroke_ready": true,
+   "trauma_emergency_24x7": true,
+   "nicu": true,
+   "picu": true,
+   "blood_bank": true,
+   "nabh_or_jci_accredited": true
+  },
+  "source": "web-research (sourced)"
+ },
+ {
+  "verified_name": "Sri Jayadeva Institute of Cardiology, Bangalore",
+  "matched_osm_name": "Sri Jayadeva Institute Of Cardiology",
+  "lat": 12.9181171,
+  "lon": 77.5992404,
+  "area": "Bannerghatta Road 560041",
+  "bed_count": 1150,
+  "capabilities_verified": {
+   "cath_lab_24x7": true,
+   "cardiac_surgery": true,
+   "stroke_ready": false,
+   "trauma_emergency_24x7": false,
+   "nicu": false,
+   "picu": false,
+   "blood_bank": true,
+   "nabh_or_jci_accredited": true
+  },
+  "source": "web-research (sourced)"
+ },
+ {
+  "verified_name": "Sparsh Hospital, Yeshwantpur, Bangalore",
+  "matched_osm_name": "Manipal Hospital Yeshwantpur",
+  "lat": 13.0142942,
+  "lon": 77.5560784,
+  "area": "Brigade Gateway, Beside Metro Cash and Carry West, Malleshwaram Bengaluru 560020",
+  "bed_count": 275,
+  "capabilities_verified": {
+   "cath_lab_24x7": true,
+   "cardiac_surgery": true,
+   "stroke_ready": true,
+   "trauma_emergency_24x7": true,
+   "nicu": true,
+   "picu": true,
+   "blood_bank": true,
+   "nabh_or_jci_accredited": true
+  },
+  "source": "web-research (sourced)"
+ },
+ {
+  "verified_name": "Sakra World Hospital, Marathahalli, Bangalore",
+  "matched_osm_name": "Sakra World Hospital",
+  "lat": 12.932315,
+  "lon": 77.6852483,
+  "area": "akra World Hospital - SY NO 52/2, 52/3, Devarabeesanahalli, Varthur Hobli Opp Intel, Outer Ring Rd, Marathahalli Bengaluru 560103",
+  "bed_count": 350,
+  "capabilities_verified": {
+   "cath_lab_24x7": true,
+   "cardiac_surgery": true,
+   "stroke_ready": true,
+   "trauma_emergency_24x7": true,
+   "nicu": true,
+   "picu": true,
+   "blood_bank": true,
+   "nabh_or_jci_accredited": true
+  },
+  "source": "web-research (sourced)"
+ },
+ {
+  "verified_name": "Aster CMI Hospital, Hebbal, Bangalore",
+  "matched_osm_name": "Aster CMI Hospital",
+  "lat": 13.0545318,
+  "lon": 77.5918707,
+  "area": null,
+  "bed_count": 500,
+  "capabilities_verified": {
+   "cath_lab_24x7": true,
+   "cardiac_surgery": true,
+   "stroke_ready": true,
+   "trauma_emergency_24x7": true,
+   "nicu": true,
+   "picu": true,
+   "blood_bank": true,
+   "nabh_or_jci_accredited": true
+  },
+  "source": "web-research (sourced)"
+ },
+ {
+  "verified_name": "Ramaiah Memorial Hospital, Bangalore",
+  "matched_osm_name": "Ramaiah Memorial Hospital",
+  "lat": 13.0282201,
+  "lon": 77.5697318,
+  "area": "560054",
+  "bed_count": 500,
+  "capabilities_verified": {
+   "cath_lab_24x7": true,
+   "cardiac_surgery": true,
+   "stroke_ready": true,
+   "trauma_emergency_24x7": true,
+   "nicu": true,
+   "picu": true,
+   "blood_bank": true,
+   "nabh_or_jci_accredited": true
+  },
+  "source": "web-research (sourced)"
+ },
+ {
+  "verified_name": "Bangalore Baptist Hospital, Hebbal, Bangalore",
+  "matched_osm_name": "Baptist Hospital",
+  "lat": 13.0357887,
+  "lon": 77.589498,
+  "area": "Bellary Road Bangalore 560024",
+  "bed_count": 450,
+  "capabilities_verified": {
+   "cardiac_surgery": false,
+   "trauma_emergency_24x7": true,
+   "nicu": true,
+   "picu": true,
+   "blood_bank": true,
+   "nabh_or_jci_accredited": true
+  },
+  "source": "web-research (sourced)"
+ },
+ {
+  "verified_name": "Manipal Hospital, Whitefield, Bangalore",
+  "matched_osm_name": "Manipal Hospitals Whitefield",
+  "lat": 12.9582593,
+  "lon": 77.7453915,
+  "area": "Whitefield Main Road Bangalore 560048",
+  "bed_count": 284,
+  "capabilities_verified": {
+   "cath_lab_24x7": true,
+   "cardiac_surgery": true,
+   "stroke_ready": true,
+   "trauma_emergency_24x7": true,
+   "nicu": true,
+   "picu": true,
+   "blood_bank": true,
+   "nabh_or_jci_accredited": true
+  },
+  "source": "web-research (sourced)"
+ },
+ {
+  "verified_name": "St John's Medical College Hospital, Koramangala, Bangalore",
+  "matched_osm_name": "St.John's Medical College Hospital",
+  "lat": 12.9296784,
+  "lon": 77.6183585,
+  "area": "Sarjapur Road Bangalore 560034",
+  "bed_count": 1800,
+  "capabilities_verified": {
+   "cath_lab_24x7": true,
+   "cardiac_surgery": true,
+   "stroke_ready": true,
+   "trauma_emergency_24x7": true,
+   "nicu": true,
+   "picu": true,
+   "blood_bank": true,
+   "nabh_or_jci_accredited": true
+  },
+  "source": "web-research (sourced)"
+ },
+ {
+  "verified_name": "Vydehi Institute of Medical Sciences, Whitefield, Bangalore",
+  "matched_osm_name": "Manipal Hospitals Whitefield",
+  "lat": 12.9880712,
+  "lon": 77.7286414,
+  "area": "Whitefield Main Road Bangalore 560048",
+  "bed_count": 1600,
+  "capabilities_verified": {
+   "cath_lab_24x7": true,
+   "cardiac_surgery": true,
+   "stroke_ready": true,
+   "trauma_emergency_24x7": true,
+   "nicu": true,
+   "picu": true,
+   "blood_bank": true,
+   "nabh_or_jci_accredited": true
+  },
+  "source": "web-research (sourced)"
+ },
+ {
+  "verified_name": "BGS Gleneagles Global Hospital, Kengeri, Bangalore",
+  "matched_osm_name": "BGS Gleneagles Hospitals",
+  "lat": 12.90306,
+  "lon": 77.4974982,
+  "area": "560060",
+  "bed_count": 450,
+  "capabilities_verified": {
+   "cath_lab_24x7": true,
+   "cardiac_surgery": true,
+   "stroke_ready": true,
+   "trauma_emergency_24x7": true,
+   "nicu": true,
+   "picu": true,
+   "blood_bank": true,
+   "nabh_or_jci_accredited": true
+  },
+  "source": "web-research (sourced)"
+ },
+ {
+  "verified_name": "Aster Whitefield Hospital, Bangalore",
+  "matched_osm_name": "Aster CMI Hospital",
+  "lat": 12.9891166,
+  "lon": 77.7338119,
+  "area": null,
+  "bed_count": 500,
+  "capabilities_verified": {
+   "cardiac_surgery": true,
+   "stroke_ready": true,
+   "trauma_emergency_24x7": true,
+   "nicu": true,
+   "picu": true,
+   "blood_bank": true,
+   "nabh_or_jci_accredited": true
+  },
+  "source": "web-research (sourced)"
+ }
+]

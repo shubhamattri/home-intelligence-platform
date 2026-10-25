@@ -1,0 +1,174 @@
+name: bhi
+
+x-build: &build
+  context: ../..
+  dockerfile: docker/Dockerfile
+
+services:
+  gateway:
+    image: traefik:v3.1
+    command:
+      - --providers.docker=true
+      - --providers.docker.exposedbydefault=false
+      - --entrypoints.web.address=:80
+      - --api.dashboard=true
+      - --api.insecure=true
+    ports:
+      - "8080:80"      # platform entrypoint
+      - "8081:8080"    # traefik dashboard
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    depends_on: [decision-svc, real-estate-svc, hospitals-svc, schools-svc]
+
+  redis:
+    image: redis:7-alpine
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  postgres-re:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: bhi
+      POSTGRES_PASSWORD: bhi
+      POSTGRES_DB: real_estate_db
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U bhi -d real_estate_db"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  postgres-sch:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: bhi
+      POSTGRES_PASSWORD: bhi
+      POSTGRES_DB: schools_db
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U bhi -d schools_db"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  # One-shot loaders: JSON snapshot -> Postgres, run before the apps start.
+  re-loader:
+    build:
+      <<: *build
+      args:
+        PKG: real-estate-svc
+        APP_MODULE: real_estate_svc.main:app
+    command: ["uv", "run", "--no-sync", "python", "-m", "real_estate_svc.loader"]
+    environment:
+      DATABASE_URL: postgresql+asyncpg://bhi:bhi@postgres-re:5432/real_estate_db
+    depends_on:
+      postgres-re:
+        condition: service_healthy
+
+  sch-loader:
+    build:
+      <<: *build
+      args:
+        PKG: schools-svc
+        APP_MODULE: schools_svc.main:app
+    command: ["uv", "run", "--no-sync", "python", "-m", "schools_svc.loader"]
+    environment:
+      DATABASE_URL: postgresql+asyncpg://bhi:bhi@postgres-sch:5432/schools_db
+    depends_on:
+      postgres-sch:
+        condition: service_healthy
+
+  real-estate-svc:
+    build:
+      <<: *build
+      args:
+        PKG: real-estate-svc
+        APP_MODULE: real_estate_svc.main:app
+        PORT: "8001"
+    environment:
+      TOMTOM_API_KEY: ${TOMTOM_API_KEY:-}
+      REDIS_URL: redis://redis:6379/0
+      DATABASE_URL: postgresql+asyncpg://bhi:bhi@postgres-re:5432/real_estate_db
+    depends_on:
+      redis:
+        condition: service_healthy
+      re-loader:
+        condition: service_completed_successfully
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.re.rule=PathPrefix(`/re`)
+      - traefik.http.routers.re.middlewares=re-strip
+      - traefik.http.middlewares.re-strip.stripprefix.prefixes=/re
+      - traefik.http.services.re.loadbalancer.server.port=8001
+
+  real-estate-worker:
+    build:
+      <<: *build
+      args:
+        PKG: real-estate-svc
+        APP_MODULE: real_estate_svc.main:app
+        PORT: "8001"
+    command: ["uv", "run", "--no-sync", "python", "-m", "real_estate_svc.worker"]
+    environment:
+      TOMTOM_API_KEY: ${TOMTOM_API_KEY:-}
+      REDIS_URL: redis://redis:6379/0
+    depends_on:
+      redis:
+        condition: service_healthy
+
+  hospitals-svc:
+    build:
+      <<: *build
+      args:
+        PKG: hospitals-svc
+        APP_MODULE: hospitals_svc.main:app
+        PORT: "8002"
+    environment:
+      TOMTOM_API_KEY: ${TOMTOM_API_KEY:-}
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.hosp.rule=PathPrefix(`/hosp`)
+      - traefik.http.routers.hosp.middlewares=hosp-strip
+      - traefik.http.middlewares.hosp-strip.stripprefix.prefixes=/hosp
+      - traefik.http.services.hosp.loadbalancer.server.port=8002
+
+  schools-svc:
+    build:
+      <<: *build
+      args:
+        PKG: schools-svc
+        APP_MODULE: schools_svc.main:app
+        PORT: "8003"
+    environment:
+      DATABASE_URL: postgresql+asyncpg://bhi:bhi@postgres-sch:5432/schools_db
+    depends_on:
+      sch-loader:
+        condition: service_completed_successfully
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.sch.rule=PathPrefix(`/sch`)
+      - traefik.http.routers.sch.middlewares=sch-strip
+      - traefik.http.middlewares.sch-strip.stripprefix.prefixes=/sch
+      - traefik.http.services.sch.loadbalancer.server.port=8003
+
+  decision-svc:
+    build:
+      <<: *build
+      args:
+        PKG: decision-svc
+        APP_MODULE: decision_svc.main:app
+        PORT: "8000"
+    environment:
+      REAL_ESTATE_URL: http://real-estate-svc:8001
+      HOSPITALS_URL: http://hospitals-svc:8002
+      SCHOOLS_URL: http://schools-svc:8003
+      TOMTOM_API_KEY: ${TOMTOM_API_KEY:-}
+    depends_on: [real-estate-svc, hospitals-svc, schools-svc]
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.dec.rule=PathPrefix(`/dec`)
+      - traefik.http.routers.dec.middlewares=dec-strip
+      - traefik.http.middlewares.dec-strip.stripprefix.prefixes=/dec
+      - traefik.http.services.dec.loadbalancer.server.port=8000
+

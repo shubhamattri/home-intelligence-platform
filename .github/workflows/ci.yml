@@ -1,0 +1,54 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  quality:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          python-version: "3.12"
+      - name: Sync workspace
+        run: uv sync --all-packages
+      - name: Lint (ruff)
+        run: uv run ruff check libs services mcp-gateway
+      - name: Format check (ruff)
+        run: uv run ruff format --check libs services mcp-gateway
+      - name: Type check (mypy --strict)
+        run: make type
+      - name: Tests
+        run: uv run pytest -q
+
+  compose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate compose stack
+        run: docker compose -f deploy/compose/docker-compose.yml config --quiet
+
+  images:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        include:
+          - { pkg: real-estate-svc, module: real_estate_svc.main:app }
+          - { pkg: hospitals-svc, module: hospitals_svc.main:app }
+          - { pkg: schools-svc, module: schools_svc.main:app }
+          - { pkg: decision-svc, module: decision_svc.main:app }
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build service image
+        env:
+          PKG: ${{ matrix.pkg }}
+          MODULE: ${{ matrix.module }}
+        run: |
+          docker build -f docker/Dockerfile \
+            --build-arg "PKG=$PKG" \
+            --build-arg "APP_MODULE=$MODULE" \
+            -t "bhi/$PKG:ci" .

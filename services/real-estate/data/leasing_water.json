@@ -1,0 +1,110 @@
+{
+ "leasing": [
+  {
+   "submarket": "Outer Ring Road (ORR)",
+   "leasing_momentum": "hot",
+   "vacancy": "Grade-A ~9-13%, tightening",
+   "notable_leases": "Embassy's ORR tech park (Google, Cisco, IBM, Qualcomm), RMZ Ecoworld (JPMorgan, Boeing, Walmart). Rents Rs 90-130/sqft, upward. Bengaluru led India 2025 (~22-28.7M sqft) and Q1 2026 (24.8% national share).",
+   "sources": [
+    "https://leasewarehouse.in/blog/post_detailsbyslug/bengaluru-office-space-micro-market-guide-2026",
+    "https://www.jll.com/en-in/insights/market-dynamics/india-office"
+   ]
+  },
+  {
+   "submarket": "Whitefield / ITPL",
+   "leasing_momentum": "hot",
+   "vacancy": "Grade-A ~10-14%, improving",
+   "notable_leases": "Purple Line metro extension revived demand; rents Rs 70-95/sqft. ITPL (ABB, BT, Honeywell) + Salarpuria Sattva Knowledge City (Amazon, LinkedIn, Myntra, Flipkart).",
+   "sources": [
+    "https://leasewarehouse.in/blog/post_detailsbyslug/bengaluru-office-space-micro-market-guide-2026"
+   ]
+  },
+  {
+   "submarket": "North Bengaluru (Hebbal / Manyata / Airport corridor)",
+   "leasing_momentum": "hot",
+   "vacancy": "Grade-A ~6-10%, tightening",
+   "notable_leases": "Manyata Tech Park (SAP, Shell, Mphasis, AstraZeneca, Societe Generale). Target leased 830,000 sqft at Embassy Manyata (2025). Airport-line metro + Aerospace SEZ make Hebbal->Devanahalli the top medium-term growth corridor.",
+   "sources": [
+    "https://leasewarehouse.in/blog/post_detailsbyslug/bengaluru-office-space-micro-market-guide-2026"
+   ]
+  },
+  {
+   "submarket": "Sarjapur Road / Bellandur",
+   "leasing_momentum": "steady",
+   "vacancy": "Grade-A ~10-14%, improving",
+   "notable_leases": "Southeast growth axis; flex/managed operators (Awfis, IndiQube, Smartworks, WeWork) + GCC satellite offices. Rents Rs 65-90/sqft, upward.",
+   "sources": [
+    "https://leasewarehouse.in/blog/post_detailsbyslug/bengaluru-office-space-micro-market-guide-2026"
+   ]
+  },
+  {
+   "submarket": "Electronic City",
+   "leasing_momentum": "steady",
+   "vacancy": "Grade-A ~14-19% (highest in city), stable",
+   "notable_leases": "Lowest occupancy costs (Rs 50-70/sqft); Infosys, Wipro, HCL, Siemens. TCS signed Rs 2,130-cr 15-year lease for 1.4M sqft at 360 Business Park (2025). Yellow Line metro (RV Road-Bommasandra) is the re-rating trigger.",
+   "sources": [
+    "https://www.facebook.com/ETRealty/posts/tata-consultancy-services-tcs-has-leased-14-million-sft-of-office-space-at-360-b/1208688777943260/"
+   ]
+  },
+  {
+   "submarket": "CBD (MG Road / Lavelle / Residency Road)",
+   "leasing_momentum": "steady",
+   "vacancy": "Grade-A ~4-7%, tightening",
+   "notable_leases": "Lowest vacancy; supply-constrained. Financial services, legal, consulting. Rents Rs 125-165/sqft.",
+   "sources": [
+    "https://leasewarehouse.in/blog/post_detailsbyslug/bengaluru-office-space-micro-market-guide-2026"
+   ]
+  },
+  {
+   "submarket": "Peripheral East (Whitefield outskirts / Varthur / Hoskote fringe)",
+   "leasing_momentum": "cooling",
+   "vacancy": "Less institutional Grade-A; borewell-tanker water risk caps demand",
+   "notable_leases": "Mostly residential-spillover and early-stage commercial; institutional Grade-A still nascent vs core Whitefield/ORR. Water dependence + last-mile connectivity are the main drags.",
+   "sources": [
+    "https://questionofcities.org/portraits-of-bengaluru-neighbourhoods-struggling-without-water/"
+   ]
+  }
+ ],
+ "water": [
+  {
+   "area": "Core Bengaluru (CBD, older BBMP wards - Cauvery Stage I-IV)",
+   "cauvery_status": "connected",
+   "note": "Serviced by Cauvery Stage I-IV; no shortage in Cauvery-serviced areas. Historically piped core.",
+   "sources": [
+    "https://data.opencity.in/dataset/bwssb-stage-wise-cauvery-water-supply-areas"
+   ]
+  },
+  {
+   "area": "110 peripheral settlements (Bellandur, Marathahalli, Varthur, K R Puram, Yelahanka, Mahadevapura, Bommanahalli)",
+   "cauvery_status": "upcoming-stage5",
+   "note": "Cauvery Stage V (commissioned 16 Oct 2024, 775 MLD) targets these 110 settlements. >50% coverage in 2025 (~1.75 lakh connections); BWSSB targeted full coverage by Sept 2025. Many wards still tanker-dependent in interim.",
+   "sources": [
+    "https://www.thehindu.com/news/national/karnataka/cauvery-v-stage-achieves-over-50-coverage-easing-summer-drinking-water-availability-in-bengaluru/article70615021.ece/amp/"
+   ]
+  },
+  {
+   "area": "Sarjapur Road / Bellandur / Whitefield outskirts (posh peripheral pockets)",
+   "cauvery_status": "borewell-tanker",
+   "note": "Large parts of new/posh peripheral areas have no piped supply and rely on borewells or private tankers. ~7,000 of ~13,900 borewells dried; tanker rates up to Rs 2,000/12,000L. Stage V closing gap ward-by-ward but partial in 2025.",
+   "sources": [
+    "https://www.propnewz.com/blog/bengaluru-water-crisis-cauvery-stage-v-buyer-checklist-2026"
+   ]
+  },
+  {
+   "area": "North Bengaluru / Devanahalli / Nelamangala / Hoskote / Bidadi / Anekal (airport corridor + outlying ULBs)",
+   "cauvery_status": "upcoming-stage6",
+   "note": "Cauvery Stage VI approved Feb 2026 (~Rs 6,939 cr, ~500 MLD) to supply Kempegowda Layout, Shivarama Karanth Layout and 8 ULBs incl Nelamangala, Hoskote, Devanahalli, Bashettihalli, Vijayapura. Currently borewell/tanker-dependent pending Stage VI.",
+   "sources": [
+    "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-govt-approves-cauvery-stage-vi-project-to-benefit-30-lakh-people/articleshow/128823676.cms"
+   ]
+  },
+  {
+   "area": "Electronic City (Hosur Road, south)",
+   "cauvery_status": "borewell-tanker",
+   "note": "Industrial township historically outside core Cauvery grid; large campuses rely on borewells, STP recycling, tankers. Not a named Stage VI ULB. Water security constrains nearby residential appreciation.",
+   "sources": [
+    "https://opencity.in/bengaluru-water-tankers-survey-2025-situation-better-than-2024/"
+   ]
+  }
+ ]
+}

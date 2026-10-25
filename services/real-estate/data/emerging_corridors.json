@@ -1,0 +1,154 @@
+[
+ {
+  "corridor": "North Bangalore / Bagalur (Aerospace SEZ belt)",
+  "leading_indicators": [
+   "Airport metro Blue Line ORR-KIA under-construction",
+   "Aerospace SEZ + Hardware Park operational",
+   "PRR north segment land-acquired",
+   "Manyata/Hebbal Grade-A leasing hot"
+  ],
+  "leasing_momentum": "hot",
+  "cauvery_status": "upcoming-stage6",
+  "infra_status": "uc",
+  "current_psf": 10150,
+  "growth_thesis": "Only emerging belt with a HOT jobs signal (North Bengaluru leasing tightening) plus airport metro UC; water is the one gap (Stage VI approved but pending).",
+  "sources": [
+   "https://leasewarehouse.in/blog/post_detailsbyslug/bengaluru-office-space-micro-market-guide-2026",
+   "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-govt-approves-cauvery-stage-vi-project-to-benefit-30-lakh-people/articleshow/128823676.cms"
+  ],
+  "cagr_pct": null,
+  "appreciation_note": "Aerospace SEZ + hardware park; airport-metro/PRR are next catalysts"
+ },
+ {
+  "corridor": "Devanahalli / Airport City belt",
+  "leading_indicators": [
+   "Airport metro Blue Line ORR-KIA under-construction",
+   "Airport City / KIADB Aerospace Park under-construction",
+   "KIA Terminal 2 operational",
+   "PRR north land-acquired"
+  ],
+  "leasing_momentum": "hot",
+  "cauvery_status": "upcoming-stage6",
+  "infra_status": "uc",
+  "current_psf": 11350,
+  "growth_thesis": "Airport-driven; metro UC + Airport City UC. Rides the same North Bengaluru jobs pull. Water = Stage VI upcoming, borewell today.",
+  "sources": [
+   "https://leasewarehouse.in/blog/post_detailsbyslug/bengaluru-office-space-micro-market-guide-2026",
+   "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-govt-approves-cauvery-stage-vi-project-to-benefit-30-lakh-people/articleshow/128823676.cms"
+  ],
+  "cagr_pct": 13.5,
+  "appreciation_note": "Airport metro (UC) + aerospace/GCC + Foxconn base; ~13.5% CAGR"
+ },
+ {
+  "corridor": "Electronic City Phase 2",
+  "leading_indicators": [
+   "Yellow Line metro RV Road-Bommasandra operational",
+   "TCS 1.4M sqft lease at 360 Business Park operational",
+   "NICE Road elevated connectivity operational"
+  ],
+  "leasing_momentum": "steady",
+  "cauvery_status": "borewell-tanker",
+  "infra_status": "operational",
+  "current_psf": 8000,
+  "growth_thesis": "Metro now OPERATIONAL (rare de-risked trigger) + big TCS lease. But water is borewell-tanker (not a Stage VI ULB) -> hard cap on the heuristic.",
+  "sources": [
+   "https://www.facebook.com/ETRealty/posts/tata-consultancy-services-tcs-has-leased-14-million-sft-of-office-space-at-360-b/1208688777943260/",
+   "https://opencity.in/bengaluru-water-tankers-survey-2025-situation-better-than-2024/"
+  ],
+  "cagr_pct": 43.0,
+  "appreciation_note": "Yellow Line operational; ~43% YoY, lowest-priced south tech hub"
+ },
+ {
+  "corridor": "Sarjapur East",
+  "leading_indicators": [
+   "Phase 3 metro Hebbal-Sarjapur announced",
+   "ORR/Whitefield/E-City tech-corridor spillover operational",
+   "flex + GCC satellite leasing steady"
+  ],
+  "leasing_momentum": "steady",
+  "cauvery_status": "borewell-tanker",
+  "infra_status": "announced",
+  "current_psf": 12000,
+  "growth_thesis": "Strong jobs adjacency but its OWN metro is only announced (delay-trap) and water is borewell-tanker -> capped. Already expensive.",
+  "sources": [
+   "https://leasewarehouse.in/blog/post_detailsbyslug/bengaluru-office-space-micro-market-guide-2026",
+   "https://www.propnewz.com/blog/bengaluru-water-crisis-cauvery-stage-v-buyer-checklist-2026"
+  ],
+  "cagr_pct": null,
+  "appreciation_note": "IT belt +84% over 3yr, now flat; Hebbal-Sarjapur metro + PRR announced"
+ },
+ {
+  "corridor": "Kanakapura Road",
+  "leading_indicators": [
+   "Green Line metro operational to Anjanapura/Silk Institute",
+   "NICE Road connectivity operational"
+  ],
+  "leasing_momentum": "none",
+  "cauvery_status": "upcoming-stage5",
+  "infra_status": "operational",
+  "current_psf": 10350,
+  "growth_thesis": "Metro operational + livable, but NO commercial job magnet on the corridor (pure dormitory) -> weak jobs multiplier.",
+  "sources": [
+   "https://leasewarehouse.in/blog/post_detailsbyslug/bengaluru-office-space-micro-market-guide-2026"
+  ],
+  "cagr_pct": 15.0,
+  "appreciation_note": "Green Line operational + NICE Rd to E-City; ~15% YoY"
+ },
+ {
+  "corridor": "Tumkur Road / Nelamangala",
+  "leading_indicators": [
+   "Green Line metro extension Nagasandra-Madavara/BIEC operational",
+   "STRR Nelamangala junction land-acquired",
+   "NH-48 industrial corridor operational"
+  ],
+  "leasing_momentum": "none",
+  "cauvery_status": "upcoming-stage6",
+  "infra_status": "operational",
+  "current_psf": 5700,
+  "growth_thesis": "Industrial/warehousing not office-jobs; metro reaches BIEC but no Grade-A office demand -> low jobs signal.",
+  "sources": [
+   "https://leasewarehouse.in/blog/post_detailsbyslug/bengaluru-office-space-micro-market-guide-2026",
+   "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-govt-approves-cauvery-stage-vi-project-to-benefit-30-lakh-people/articleshow/128823676.cms"
+  ],
+  "cagr_pct": null,
+  "appreciation_note": "STRR + KIADB/KWIN industrial flip; land +39% YoY, cheapest west corridor"
+ },
+ {
+  "corridor": "Hoskote",
+  "leading_indicators": [
+   "STRR passing through land-acquired",
+   "KIADB industrial + warehousing/logistics operational",
+   "NH-75 connectivity operational"
+  ],
+  "leasing_momentum": "cooling",
+  "cauvery_status": "upcoming-stage6",
+  "infra_status": "land-acquired",
+  "current_psf": 6150,
+  "growth_thesis": "Cheap + STRR/logistics, but Peripheral East leasing is COOLING and it is a warehousing play, not a residential-appreciation jobs play.",
+  "sources": [
+   "https://questionofcities.org/portraits-of-bengaluru-neighbourhoods-struggling-without-water/",
+   "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-govt-approves-cauvery-stage-vi-project-to-benefit-30-lakh-people/articleshow/128823676.cms"
+  ],
+  "cagr_pct": null,
+  "appreciation_note": "STRR near-complete + warehousing/logistics land-use flip"
+ },
+ {
+  "corridor": "Chandapura-Attibele",
+  "leading_indicators": [
+   "Yellow Line Bommasandra terminus proximity operational",
+   "Hosur EV/manufacturing spillover operational",
+   "Attibele/ELCITA industrial operational"
+  ],
+  "leasing_momentum": "none",
+  "cauvery_status": "borewell-tanker",
+  "infra_status": "operational",
+  "current_psf": 6600,
+  "growth_thesis": "Cheapest + Hosur spillover story, but no Bangalore office-jobs magnet, borewell-tanker water -> capped. Speculative.",
+  "sources": [
+   "https://leasewarehouse.in/blog/post_detailsbyslug/bengaluru-office-space-micro-market-guide-2026",
+   "https://www.propnewz.com/blog/bengaluru-water-crisis-cauvery-stage-v-buyer-checklist-2026"
+  ],
+  "cagr_pct": 9.0,
+  "appreciation_note": "Yellow Line terminus + Hosur EV spillover; ~9% YoY, affordable"
+ }
+]

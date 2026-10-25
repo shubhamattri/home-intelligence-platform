@@ -1,0 +1,61 @@
+[project]
+name = "home-intelligence-platform"
+version = "0.1.0"
+description = "FastAPI microservices and an MCP gateway for comparing homes on commute, schools, hospitals, price and risk"
+requires-python = ">=3.12"
+readme = "README.md"
+
+# The platform is a uv workspace. Each library and service is its own package
+# so it can be built, tested, and containerised independently.
+[tool.uv.workspace]
+members = ["libs/*", "services/*", "mcp-gateway"]
+
+[tool.uv.sources]
+platform-common = { workspace = true }
+bhi-contracts = { workspace = true }
+service-kit = { workspace = true }
+bhi-jobs = { workspace = true }
+bhi-persistence = { workspace = true }
+
+# Dev tooling shared across every workspace member.
+[dependency-groups]
+dev = [
+    "ruff>=0.9",
+    "mypy>=1.15",
+    "pytest>=8",
+    "pytest-asyncio>=0.25",
+    "pytest-httpx>=0.35",
+    "schemathesis>=3.38",
+    "aiosqlite>=0.20",
+    "alembic>=1.14",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+src = ["libs/*/src", "services/*/src", "mcp-gateway/src"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "C4", "PTH", "RUF"]
+ignore = ["E501"]  # line length is enforced by formatter, not the linter
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+warn_unused_ignores = true
+warn_redundant_casts = true
+namespace_packages = true
+explicit_package_bases = true
+mypy_path = [
+    "libs/platform_common/src",
+    "libs/contracts/src",
+    "libs/service_kit/src",
+    "services/real-estate/src",
+    "services/hospitals/src",
+    "services/schools/src",
+]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+addopts = "--import-mode=importlib"
+testpaths = ["libs", "services", "mcp-gateway"]

@@ -1,0 +1,1777 @@
+{
+ "PRM/KA/RERA/1248/469/PR/060325/007553": {
+  "lat": 12.9746,
+  "lon": 77.6822,
+  "area": "Kaggadasapura"
+ },
+ "PRM/KA/RERA/1248/469/PR/091024/007140": {
+  "lat": 13.0234,
+  "lon": 77.5528,
+  "area": "Rajajinagar"
+ },
+ "PRM/KA/RERA/1248/469/PR/130526/008644": {
+  "lat": 12.9165,
+  "lon": 77.6016,
+  "area": "BTM Layout"
+ },
+ "PRM/KA/RERA/1248/469/PR/150725/007923": {
+  "lat": 12.9183,
+  "lon": 77.4944,
+  "area": "Kengeri"
+ },
+ "PRM/KA/RERA/1248/469/PR/170626/008727": {
+  "lat": 12.9792,
+  "lon": 77.7886,
+  "area": "Whitefield"
+ },
+ "PRM/KA/RERA/1248/469/PR/230125/007429": {
+  "lat": 12.9603,
+  "lon": 77.6589,
+  "area": "Old Airport Road"
+ },
+ "PRM/KA/RERA/1248/469/PR/281124/007255": {
+  "lat": 12.9366,
+  "lon": 77.5798,
+  "area": "Jayanagar"
+ },
+ "PRM/KA/RERA/1248/469/PR/300625/007878": {
+  "lat": 13.052,
+  "lon": 77.6325,
+  "area": "Thanisandra"
+ },
+ "PRM/KA/RERA/1249/367/PR/040726/008788": {
+  "lat": 13.0121,
+  "lon": 77.5448,
+  "area": "Rajajinagar"
+ },
+ "PRM/KA/RERA/1249/369/PR/211125/008268": {
+  "lat": 12.9079,
+  "lon": 77.6062,
+  "area": "BTM Layout"
+ },
+ "PRM/KA/RERA/1249/369/PR/281124/007256": {
+  "lat": 12.9079,
+  "lon": 77.6062,
+  "area": "BTM Layout"
+ },
+ "PRM/KA/RERA/1249/447/PR/010225/007472": {
+  "lat": 13.0445,
+  "lon": 77.6263,
+  "area": "Thanisandra"
+ },
+ "PRM/KA/RERA/1249/447/PR/010426/008567": {
+  "lat": 13.0516,
+  "lon": 77.6112,
+  "area": "Thanisandra"
+ },
+ "PRM/KA/RERA/1249/447/PR/090125/007366": {
+  "lat": 12.9056,
+  "lon": 77.6819,
+  "area": "Kasavanahalli"
+ },
+ "PRM/KA/RERA/1249/447/PR/111124/007215": {
+  "lat": 12.9203,
+  "lon": 77.6518,
+  "area": "HSR Layout"
+ },
+ "PRM/KA/RERA/1249/447/PR/140126/008402": {
+  "lat": 12.983,
+  "lon": 77.6405,
+  "area": "Indiranagar"
+ },
+ "PRM/KA/RERA/1249/447/PR/160525/007749": {
+  "lat": 12.9081,
+  "lon": 77.577,
+  "area": "JP Nagar"
+ },
+ "PRM/KA/RERA/1249/447/PR/201224/007312": {
+  "lat": 12.9786,
+  "lon": 77.7413,
+  "area": "Whitefield"
+ },
+ "PRM/KA/RERA/1249/447/PR/210126/008416": {
+  "lat": 12.8982,
+  "lon": 77.5887,
+  "area": "JP Nagar"
+ },
+ "PRM/KA/RERA/1249/447/PR/290425/007697": {
+  "lat": 13.0127,
+  "lon": 77.6816,
+  "area": "Kaggadasapura"
+ },
+ "PRM/KA/RERA/1250/301/PR/170726/008815": {
+  "lat": 13.0279,
+  "lon": 77.6347,
+  "area": "Hennur"
+ },
+ "PRM/KA/RERA/1250/301/PR/220125/007411": {
+  "lat": 12.8546,
+  "lon": 77.6606,
+  "area": "Electronic City"
+ },
+ "PRM/KA/RERA/1250/303/PR/031125/008216": {
+  "lat": 12.901,
+  "lon": 77.4773,
+  "area": "Kengeri"
+ },
+ "PRM/KA/RERA/1250/303/PR/050725/007893": {
+  "lat": 12.8651,
+  "lon": 77.5212,
+  "area": "Kanakapura Road"
+ },
+ "PRM/KA/RERA/1250/303/PR/051224/007264": {
+  "lat": 12.8903,
+  "lon": 77.6191,
+  "area": "Bommanahalli"
+ },
+ "PRM/KA/RERA/1250/303/PR/080626/008704": {
+  "lat": 12.9621,
+  "lon": 77.5264,
+  "area": "RR Nagar"
+ },
+ "PRM/KA/RERA/1250/303/PR/090525/007731": {
+  "lat": 12.9162,
+  "lon": 77.5508,
+  "area": "Kanakapura Road"
+ },
+ "PRM/KA/RERA/1250/303/PR/090925/008075": {
+  "lat": 12.9628,
+  "lon": 77.7022,
+  "area": "Marathahalli"
+ },
+ "PRM/KA/RERA/1250/303/PR/110825/007988": {
+  "lat": 13.0992,
+  "lon": 77.5706,
+  "area": "Yelahanka"
+ },
+ "PRM/KA/RERA/1250/303/PR/130924/007013": {
+  "lat": 13.0484,
+  "lon": 77.6246,
+  "area": "Thanisandra"
+ },
+ "PRM/KA/RERA/1250/303/PR/141125/008252": {
+  "lat": 12.8947,
+  "lon": 77.6594,
+  "area": "Haralur"
+ },
+ "PRM/KA/RERA/1250/303/PR/141125/008253": {
+  "lat": 12.8948,
+  "lon": 77.6595,
+  "area": "Haralur"
+ },
+ "PRM/KA/RERA/1250/303/PR/160824/006974": {
+  "lat": 12.9001,
+  "lon": 77.478,
+  "area": "Kengeri"
+ },
+ "PRM/KA/RERA/1250/303/PR/170426/008590": {
+  "lat": 12.9333,
+  "lon": 77.5402,
+  "area": "RR Nagar"
+ },
+ "PRM/KA/RERA/1250/303/PR/170625/007832": {
+  "lat": 12.7884,
+  "lon": 77.6138,
+  "area": "Electronic City"
+ },
+ "PRM/KA/RERA/1250/303/PR/220526/008674": {
+  "lat": 12.974,
+  "lon": 77.7016,
+  "area": "Marathahalli"
+ },
+ "PRM/KA/RERA/1250/303/PR/291124/007262": {
+  "lat": 13.0111,
+  "lon": 77.6806,
+  "area": "Kaggadasapura"
+ },
+ "PRM/KA/RERA/1250/303/PR/300626/008779": {
+  "lat": 13.2944,
+  "lon": 77.5355,
+  "area": "Devanahalli"
+ },
+ "PRM/KA/RERA/1250/303/PR/310326/008559": {
+  "lat": 12.9219,
+  "lon": 77.6451,
+  "area": "HSR Layout"
+ },
+ "PRM/KA/RERA/1250/304/PR/130126/008397": {
+  "lat": 12.7919,
+  "lon": 77.6596,
+  "area": "Chandapura"
+ },
+ "PRM/KA/RERA/1250/304/PR/130126/008398": {
+  "lat": 12.893,
+  "lon": 77.6827,
+  "area": "Kasavanahalli"
+ },
+ "PRM/KA/RERA/1250/304/PR/131224/007290": {
+  "lat": 12.9848,
+  "lon": 77.7108,
+  "area": "Marathahalli"
+ },
+ "PRM/KA/RERA/1250/304/PR/160126/008407": {
+  "lat": 13.012,
+  "lon": 77.6771,
+  "area": "Kaggadasapura"
+ },
+ "PRM/KA/RERA/1250/304/PR/160925/008096": {
+  "lat": 13.1707,
+  "lon": 77.6328,
+  "area": "Bagalur"
+ },
+ "PRM/KA/RERA/1250/304/PR/161025/008176": {
+  "lat": 12.9916,
+  "lon": 77.6678,
+  "area": "CV Raman Nagar"
+ },
+ "PRM/KA/RERA/1250/304/PR/170425/007677": {
+  "lat": 12.8882,
+  "lon": 77.597,
+  "area": "Bannerghatta Road"
+ },
+ "PRM/KA/RERA/1250/304/PR/200925/008109": {
+  "lat": 13.0364,
+  "lon": 77.6344,
+  "area": "Hennur"
+ },
+ "PRM/KA/RERA/1250/304/PR/250825/008027": {
+  "lat": 12.8253,
+  "lon": 77.6853,
+  "area": "Chandapura"
+ },
+ "PRM/KA/RERA/1250/304/PR/260226/008490": {
+  "lat": 12.8119,
+  "lon": 77.663,
+  "area": "Electronic City"
+ },
+ "PRM/KA/RERA/1250/304/PR/261125/008273": {
+  "lat": 12.8739,
+  "lon": 77.6456,
+  "area": "Electronic City"
+ },
+ "PRM/KA/RERA/1250/304/PR/270924/007095": {
+  "lat": 12.9101,
+  "lon": 77.5954,
+  "area": "JP Nagar"
+ },
+ "PRM/KA/RERA/1250/304/PR/280325/007637": {
+  "lat": 12.9261,
+  "lon": 77.6712,
+  "area": "Bellandur"
+ },
+ "PRM/KA/RERA/1250/304/PR/300625/007882": {
+  "lat": 13.1162,
+  "lon": 77.8288,
+  "area": "Hoskote"
+ },
+ "PRM/KA/RERA/1250/307/PR/070326/008510": {
+  "lat": 12.8373,
+  "lon": 77.6437,
+  "area": "Electronic City"
+ },
+ "PRM/KA/RERA/1250/307/PR/090925/008073": {
+  "lat": 13.0727,
+  "lon": 77.5991,
+  "area": "Yelahanka"
+ },
+ "PRM/KA/RERA/1250/307/PR/290825/008039": {
+  "lat": 12.9069,
+  "lon": 77.5968,
+  "area": "JP Nagar"
+ },
+ "PRM/KA/RERA/1251/308/PR/010325/007534": {
+  "lat": 12.9074,
+  "lon": 77.4908,
+  "area": "Kengeri"
+ },
+ "PRM/KA/RERA/1251/308/PR/030126/008379": {
+  "lat": 12.9215,
+  "lon": 77.603,
+  "area": "BTM Layout"
+ },
+ "PRM/KA/RERA/1251/308/PR/030225/007477": {
+  "lat": 12.8864,
+  "lon": 77.6304,
+  "area": "Bommanahalli"
+ },
+ "PRM/KA/RERA/1251/308/PR/050425/007652": {
+  "lat": 12.7935,
+  "lon": 77.7215,
+  "area": "Attibele"
+ },
+ "PRM/KA/RERA/1251/308/PR/050924/006996": {
+  "lat": 13.0037,
+  "lon": 77.6149,
+  "area": "Hebbal"
+ },
+ "PRM/KA/RERA/1251/308/PR/080525/007724": {
+  "lat": 12.7089,
+  "lon": 77.6969,
+  "area": "Attibele"
+ },
+ "PRM/KA/RERA/1251/308/PR/080626/008710": {
+  "lat": 13.0081,
+  "lon": 77.4147,
+  "area": "Nelamangala"
+ },
+ "PRM/KA/RERA/1251/308/PR/100925/008082": {
+  "lat": 13.1134,
+  "lon": 77.5659,
+  "area": "Yelahanka"
+ },
+ "PRM/KA/RERA/1251/308/PR/101125/008234": {
+  "lat": 12.9149,
+  "lon": 77.5568,
+  "area": "Kanakapura Road"
+ },
+ "PRM/KA/RERA/1251/308/PR/110925/008089": {
+  "lat": 12.8401,
+  "lon": 77.6639,
+  "area": "Electronic City"
+ },
+ "PRM/KA/RERA/1251/308/PR/111124/007213": {
+  "lat": 12.9163,
+  "lon": 77.5922,
+  "area": "JP Nagar"
+ },
+ "PRM/KA/RERA/1251/308/PR/120225/007494": {
+  "lat": 12.7215,
+  "lon": 77.7177,
+  "area": "Attibele"
+ },
+ "PRM/KA/RERA/1251/308/PR/120225/007497": {
+  "lat": 12.9501,
+  "lon": 77.4911,
+  "area": "RR Nagar"
+ },
+ "PRM/KA/RERA/1251/308/PR/120326/008522": {
+  "lat": 12.9252,
+  "lon": 77.5647,
+  "area": "Jayanagar"
+ },
+ "PRM/KA/RERA/1251/308/PR/121125/008242": {
+  "lat": 12.9101,
+  "lon": 77.6991,
+  "area": "Sarjapur Road"
+ },
+ "PRM/KA/RERA/1251/308/PR/130825/007993": {
+  "lat": 12.9023,
+  "lon": 77.6366,
+  "area": "HSR Layout"
+ },
+ "PRM/KA/RERA/1251/308/PR/151124/007231": {
+  "lat": 12.9902,
+  "lon": 77.6899,
+  "area": "Kaggadasapura"
+ },
+ "PRM/KA/RERA/1251/308/PR/160525/007754": {
+  "lat": 12.8882,
+  "lon": 77.597,
+  "area": "Bannerghatta Road"
+ },
+ "PRM/KA/RERA/1251/308/PR/161025/008174": {
+  "lat": 13.0569,
+  "lon": 77.6226,
+  "area": "Thanisandra"
+ },
+ "PRM/KA/RERA/1251/308/PR/170125/007394": {
+  "lat": 12.9569,
+  "lon": 77.6415,
+  "area": "Old Airport Road"
+ },
+ "PRM/KA/RERA/1251/308/PR/170325/007589": {
+  "lat": 13.0361,
+  "lon": 77.6872,
+  "area": "Hennur"
+ },
+ "PRM/KA/RERA/1251/308/PR/170625/007837": {
+  "lat": 12.838,
+  "lon": 77.4905,
+  "area": "Kengeri"
+ },
+ "PRM/KA/RERA/1251/308/PR/170625/007842": {
+  "lat": 12.9706,
+  "lon": 77.7502,
+  "area": "Whitefield"
+ },
+ "PRM/KA/RERA/1251/308/PR/171025/008179": {
+  "lat": 12.8373,
+  "lon": 77.6437,
+  "area": "Electronic City"
+ },
+ "PRM/KA/RERA/1251/308/PR/171225/008345": {
+  "lat": 13.1884,
+  "lon": 77.6549,
+  "area": "Bagalur"
+ },
+ "PRM/KA/RERA/1251/308/PR/180325/007592": {
+  "lat": 12.9523,
+  "lon": 77.7118,
+  "area": "Marathahalli"
+ },
+ "PRM/KA/RERA/1251/308/PR/180326/008538": {
+  "lat": 12.935,
+  "lon": 77.5683,
+  "area": "Jayanagar"
+ },
+ "PRM/KA/RERA/1251/308/PR/180426/008591": {
+  "lat": 13.1884,
+  "lon": 77.6549,
+  "area": "Bagalur"
+ },
+ "PRM/KA/RERA/1251/308/PR/180924/007042": {
+  "lat": 12.9392,
+  "lon": 77.5813,
+  "area": "Jayanagar"
+ },
+ "PRM/KA/RERA/1251/308/PR/180925/008100": {
+  "lat": 12.8704,
+  "lon": 77.4459,
+  "area": "Kengeri"
+ },
+ "PRM/KA/RERA/1251/308/PR/190325/007593": {
+  "lat": 12.9056,
+  "lon": 77.6819,
+  "area": "Kasavanahalli"
+ },
+ "PRM/KA/RERA/1251/308/PR/191225/008353": {
+  "lat": 12.9655,
+  "lon": 77.6026,
+  "area": "Indiranagar"
+ },
+ "PRM/KA/RERA/1251/308/PR/210126/008418": {
+  "lat": 12.8924,
+  "lon": 77.7098,
+  "area": "Sarjapur Road"
+ },
+ "PRM/KA/RERA/1251/308/PR/210526/008669": {
+  "lat": 13.1884,
+  "lon": 77.6549,
+  "area": "Bagalur"
+ },
+ "PRM/KA/RERA/1251/308/PR/210825/008019": {
+  "lat": 13.0122,
+  "lon": 77.5066,
+  "area": "Rajajinagar"
+ },
+ "PRM/KA/RERA/1251/308/PR/220126/008422": {
+  "lat": 12.9259,
+  "lon": 77.5241,
+  "area": "RR Nagar"
+ },
+ "PRM/KA/RERA/1251/308/PR/220526/008673": {
+  "lat": 12.7935,
+  "lon": 77.7215,
+  "area": "Attibele"
+ },
+ "PRM/KA/RERA/1251/308/PR/220825/008023": {
+  "lat": 12.9119,
+  "lon": 77.6323,
+  "area": "HSR Layout"
+ },
+ "PRM/KA/RERA/1251/308/PR/240425/007691": {
+  "lat": 12.9685,
+  "lon": 77.7454,
+  "area": "Whitefield"
+ },
+ "PRM/KA/RERA/1251/308/PR/250425/007695": {
+  "lat": 12.9824,
+  "lon": 77.7097,
+  "area": "Marathahalli"
+ },
+ "PRM/KA/RERA/1251/308/PR/260226/008489": {
+  "lat": 12.7834,
+  "lon": 77.7725,
+  "area": "Attibele"
+ },
+ "PRM/KA/RERA/1251/308/PR/260825/008033": {
+  "lat": 12.9338,
+  "lon": 77.542,
+  "area": "RR Nagar"
+ },
+ "PRM/KA/RERA/1251/308/PR/260924/007083": {
+  "lat": 12.9813,
+  "lon": 77.6832,
+  "area": "Kaggadasapura"
+ },
+ "PRM/KA/RERA/1251/308/PR/260925/008125": {
+  "lat": 12.9376,
+  "lon": 77.6279,
+  "area": "Koramangala"
+ },
+ "PRM/KA/RERA/1251/308/PR/290425/007698": {
+  "lat": 12.9013,
+  "lon": 77.5366,
+  "area": "Kanakapura Road"
+ },
+ "PRM/KA/RERA/1251/308/PR/291225/008362": {
+  "lat": 12.9669,
+  "lon": 77.754,
+  "area": "Whitefield"
+ },
+ "PRM/KA/RERA/1251/309/PR/010225/007473": {
+  "lat": 12.9516,
+  "lon": 77.713,
+  "area": "Marathahalli"
+ },
+ "PRM/KA/RERA/1251/309/PR/050325/007545": {
+  "lat": 12.9169,
+  "lon": 77.6778,
+  "area": "Bellandur"
+ },
+ "PRM/KA/RERA/1251/309/PR/051125/008225": {
+  "lat": 12.9725,
+  "lon": 77.6075,
+  "area": "Indiranagar"
+ },
+ "PRM/KA/RERA/1251/309/PR/060325/007552": {
+  "lat": 13.1674,
+  "lon": 77.6305,
+  "area": "Bagalur"
+ },
+ "PRM/KA/RERA/1251/309/PR/100626/008714": {
+  "lat": 13.0109,
+  "lon": 77.6306,
+  "area": "Hennur"
+ },
+ "PRM/KA/RERA/1251/309/PR/160425/007670": {
+  "lat": 13.1132,
+  "lon": 77.5706,
+  "area": "Yelahanka"
+ },
+ "PRM/KA/RERA/1251/309/PR/170326/008531": {
+  "lat": 13.0097,
+  "lon": 77.6678,
+  "area": "CV Raman Nagar"
+ },
+ "PRM/KA/RERA/1251/309/PR/230626/008747": {
+  "lat": 12.9796,
+  "lon": 77.7518,
+  "area": "Whitefield"
+ },
+ "PRM/KA/RERA/1251/309/PR/250425/007696": {
+  "lat": 13.0992,
+  "lon": 77.4479,
+  "area": "Nelamangala"
+ },
+ "PRM/KA/RERA/1251/309/PR/270125/007436": {
+  "lat": 12.8986,
+  "lon": 77.6585,
+  "area": "Haralur"
+ },
+ "PRM/KA/RERA/1251/309/PR/301024/007195": {
+  "lat": 12.9551,
+  "lon": 77.5529,
+  "area": "Rajajinagar"
+ },
+ "PRM/KA/RERA/1251/309/PR/310125/007461": {
+  "lat": 12.9812,
+  "lon": 77.6405,
+  "area": "Indiranagar"
+ },
+ "PRM/KA/RERA/1251/309/PR/310125/007462": {
+  "lat": 12.9376,
+  "lon": 77.6234,
+  "area": "Koramangala"
+ },
+ "PRM/KA/RERA/1251/310/PR/020126/008378": {
+  "lat": 12.9681,
+  "lon": 77.7376,
+  "area": "Whitefield"
+ },
+ "PRM/KA/RERA/1251/310/PR/020725/007891": {
+  "lat": 12.9169,
+  "lon": 77.6778,
+  "area": "Bellandur"
+ },
+ "PRM/KA/RERA/1251/310/PR/041024/007119": {
+  "lat": 12.9305,
+  "lon": 77.6849,
+  "area": "Bellandur"
+ },
+ "PRM/KA/RERA/1251/310/PR/050725/007895": {
+  "lat": 13.0226,
+  "lon": 77.4491,
+  "area": "Nelamangala"
+ },
+ "PRM/KA/RERA/1251/310/PR/051225/008319": {
+  "lat": 13.0267,
+  "lon": 77.5148,
+  "area": "Rajajinagar"
+ },
+ "PRM/KA/RERA/1251/310/PR/061125/008228": {
+  "lat": 12.9331,
+  "lon": 77.6145,
+  "area": "Koramangala"
+ },
+ "PRM/KA/RERA/1251/310/PR/061225/008321": {
+  "lat": 12.9706,
+  "lon": 77.7502,
+  "area": "Whitefield"
+ },
+ "PRM/KA/RERA/1251/310/PR/070125/007359": {
+  "lat": 12.901,
+  "lon": 77.4773,
+  "area": "Kengeri"
+ },
+ "PRM/KA/RERA/1251/310/PR/090125/007370": {
+  "lat": 12.9662,
+  "lon": 77.7181,
+  "area": "Marathahalli"
+ },
+ "PRM/KA/RERA/1251/310/PR/090425/007663": {
+  "lat": 12.8988,
+  "lon": 77.6058,
+  "area": "Bannerghatta Road"
+ },
+ "PRM/KA/RERA/1251/310/PR/090925/008077": {
+  "lat": 12.9415,
+  "lon": 77.6216,
+  "area": "Koramangala"
+ },
+ "PRM/KA/RERA/1251/310/PR/100925/008078": {
+  "lat": 12.9937,
+  "lon": 77.6567,
+  "area": "CV Raman Nagar"
+ },
+ "PRM/KA/RERA/1251/310/PR/111124/007217": {
+  "lat": 12.9025,
+  "lon": 77.6229,
+  "area": "Bommanahalli"
+ },
+ "PRM/KA/RERA/1251/310/PR/121125/008244": {
+  "lat": 12.8825,
+  "lon": 77.651,
+  "area": "Haralur"
+ },
+ "PRM/KA/RERA/1251/310/PR/130525/007736": {
+  "lat": 12.9334,
+  "lon": 77.5646,
+  "area": "Jayanagar"
+ },
+ "PRM/KA/RERA/1251/310/PR/130625/007828": {
+  "lat": 12.961,
+  "lon": 77.7423,
+  "area": "Whitefield"
+ },
+ "PRM/KA/RERA/1251/310/PR/131125/008250": {
+  "lat": 12.8825,
+  "lon": 77.651,
+  "area": "Haralur"
+ },
+ "PRM/KA/RERA/1251/310/PR/151124/007230": {
+  "lat": 12.8856,
+  "lon": 77.6024,
+  "area": "Bannerghatta Road"
+ },
+ "PRM/KA/RERA/1251/310/PR/151225/008335": {
+  "lat": 12.9025,
+  "lon": 77.6608,
+  "area": "Haralur"
+ },
+ "PRM/KA/RERA/1251/310/PR/160125/007386": {
+  "lat": 12.8882,
+  "lon": 77.597,
+  "area": "Bannerghatta Road"
+ },
+ "PRM/KA/RERA/1251/310/PR/160726/008814": {
+  "lat": 12.9348,
+  "lon": 77.6146,
+  "area": "Koramangala"
+ },
+ "PRM/KA/RERA/1251/310/PR/180226/008471": {
+  "lat": 12.8882,
+  "lon": 77.597,
+  "area": "Bannerghatta Road"
+ },
+ "PRM/KA/RERA/1251/310/PR/180326/008540": {
+  "lat": 12.9056,
+  "lon": 77.6819,
+  "area": "Kasavanahalli"
+ },
+ "PRM/KA/RERA/1251/310/PR/180726/008827": {
+  "lat": 12.8473,
+  "lon": 77.674,
+  "area": "Electronic City"
+ },
+ "PRM/KA/RERA/1251/310/PR/180924/007029": {
+  "lat": 12.9185,
+  "lon": 77.6758,
+  "area": "Bellandur"
+ },
+ "PRM/KA/RERA/1251/310/PR/190625/007853": {
+  "lat": 12.9687,
+  "lon": 77.6499,
+  "area": "Old Airport Road"
+ },
+ "PRM/KA/RERA/1251/310/PR/200525/007759": {
+  "lat": 13.0821,
+  "lon": 77.5413,
+  "area": "Yelahanka"
+ },
+ "PRM/KA/RERA/1251/310/PR/200726/008828": {
+  "lat": 13.1219,
+  "lon": 77.6467,
+  "area": "Bagalur"
+ },
+ "PRM/KA/RERA/1251/310/PR/210325/007606": {
+  "lat": 12.9048,
+  "lon": 77.6306,
+  "area": "HSR Layout"
+ },
+ "PRM/KA/RERA/1251/310/PR/210325/007613": {
+  "lat": 13.0886,
+  "lon": 77.6582,
+  "area": "Thanisandra"
+ },
+ "PRM/KA/RERA/1251/310/PR/210425/007679": {
+  "lat": 12.9792,
+  "lon": 77.7034,
+  "area": "Marathahalli"
+ },
+ "PRM/KA/RERA/1251/310/PR/210625/007861": {
+  "lat": 12.8971,
+  "lon": 77.5807,
+  "area": "JP Nagar"
+ },
+ "PRM/KA/RERA/1251/310/PR/230125/007430": {
+  "lat": 12.8205,
+  "lon": 77.6792,
+  "area": "Chandapura"
+ },
+ "PRM/KA/RERA/1251/310/PR/240426/008602": {
+  "lat": 12.96,
+  "lon": 77.5257,
+  "area": "RR Nagar"
+ },
+ "PRM/KA/RERA/1251/310/PR/250725/007953": {
+  "lat": 13.1674,
+  "lon": 77.6305,
+  "area": "Bagalur"
+ },
+ "PRM/KA/RERA/1251/310/PR/250924/007071": {
+  "lat": 12.8986,
+  "lon": 77.5482,
+  "area": "Kanakapura Road"
+ },
+ "PRM/KA/RERA/1251/310/PR/271025/008187": {
+  "lat": 12.9652,
+  "lon": 77.6032,
+  "area": "Koramangala"
+ },
+ "PRM/KA/RERA/1251/310/PR/290825/008040": {
+  "lat": 12.928,
+  "lon": 77.5465,
+  "area": "RR Nagar"
+ },
+ "PRM/KA/RERA/1251/310/PR/291125/008289": {
+  "lat": 12.9233,
+  "lon": 77.6716,
+  "area": "Bellandur"
+ },
+ "PRM/KA/RERA/1251/310/PR/300625/007883": {
+  "lat": 12.9679,
+  "lon": 77.6544,
+  "area": "Old Airport Road"
+ },
+ "PRM/KA/RERA/1251/446/PR/020125/007341": {
+  "lat": 12.9395,
+  "lon": 77.7228,
+  "area": "Varthur"
+ },
+ "PRM/KA/RERA/1251/446/PR/021225/008298": {
+  "lat": 13.0593,
+  "lon": 77.5933,
+  "area": "Hebbal"
+ },
+ "PRM/KA/RERA/1251/446/PR/040125/007346": {
+  "lat": 12.8576,
+  "lon": 77.5891,
+  "area": "Bannerghatta Road"
+ },
+ "PRM/KA/RERA/1251/446/PR/040425/007650": {
+  "lat": 12.9814,
+  "lon": 77.6918,
+  "area": "Kaggadasapura"
+ },
+ "PRM/KA/RERA/1251/446/PR/041225/008303": {
+  "lat": 12.9778,
+  "lon": 77.7438,
+  "area": "Whitefield"
+ },
+ "PRM/KA/RERA/1251/446/PR/050824/006961": {
+  "lat": 12.9943,
+  "lon": 77.6955,
+  "area": "Kaggadasapura"
+ },
+ "PRM/KA/RERA/1251/446/PR/060326/008509": {
+  "lat": 12.9041,
+  "lon": 77.703,
+  "area": "Sarjapur Road"
+ },
+ "PRM/KA/RERA/1251/446/PR/060924/007008": {
+  "lat": 12.9955,
+  "lon": 77.6691,
+  "area": "CV Raman Nagar"
+ },
+ "PRM/KA/RERA/1251/446/PR/070125/007354": {
+  "lat": 12.968,
+  "lon": 77.6551,
+  "area": "Old Airport Road"
+ },
+ "PRM/KA/RERA/1251/446/PR/070126/008387": {
+  "lat": 12.8945,
+  "lon": 77.6778,
+  "area": "Kasavanahalli"
+ },
+ "PRM/KA/RERA/1251/446/PR/080125/007360": {
+  "lat": 12.9386,
+  "lon": 77.7434,
+  "area": "Varthur"
+ },
+ "PRM/KA/RERA/1251/446/PR/080125/007363": {
+  "lat": 12.9167,
+  "lon": 77.5857,
+  "area": "JP Nagar"
+ },
+ "PRM/KA/RERA/1251/446/PR/090525/007732": {
+  "lat": 12.9316,
+  "lon": 77.5735,
+  "area": "Jayanagar"
+ },
+ "PRM/KA/RERA/1251/446/PR/120325/007578": {
+  "lat": 12.9766,
+  "lon": 77.708,
+  "area": "Marathahalli"
+ },
+ "PRM/KA/RERA/1251/446/PR/121125/008247": {
+  "lat": 12.8087,
+  "lon": 77.679,
+  "area": "Chandapura"
+ },
+ "PRM/KA/RERA/1251/446/PR/130126/008396": {
+  "lat": 13.0977,
+  "lon": 77.5897,
+  "area": "Yelahanka"
+ },
+ "PRM/KA/RERA/1251/446/PR/130924/007016": {
+  "lat": 12.9652,
+  "lon": 77.7557,
+  "area": "Whitefield"
+ },
+ "PRM/KA/RERA/1251/446/PR/131224/007291": {
+  "lat": 12.9377,
+  "lon": 77.628,
+  "area": "Koramangala"
+ },
+ "PRM/KA/RERA/1251/446/PR/140325/007583": {
+  "lat": 12.9543,
+  "lon": 77.5556,
+  "area": "Jayanagar"
+ },
+ "PRM/KA/RERA/1251/446/PR/150325/007586": {
+  "lat": 12.9263,
+  "lon": 77.486,
+  "area": "Kengeri"
+ },
+ "PRM/KA/RERA/1251/446/PR/151025/008170": {
+  "lat": 12.9532,
+  "lon": 77.6218,
+  "area": "Koramangala"
+ },
+ "PRM/KA/RERA/1251/446/PR/151025/008171": {
+  "lat": 12.9866,
+  "lon": 77.6194,
+  "area": "Indiranagar"
+ },
+ "PRM/KA/RERA/1251/446/PR/160726/008813": {
+  "lat": 12.9084,
+  "lon": 77.6324,
+  "area": "HSR Layout"
+ },
+ "PRM/KA/RERA/1251/446/PR/170625/007844": {
+  "lat": 12.9077,
+  "lon": 77.5851,
+  "area": "JP Nagar"
+ },
+ "PRM/KA/RERA/1251/446/PR/180725/007935": {
+  "lat": 12.8912,
+  "lon": 77.6919,
+  "area": "Sarjapur Road"
+ },
+ "PRM/KA/RERA/1251/446/PR/210325/007608": {
+  "lat": 12.8875,
+  "lon": 77.6387,
+  "area": "Bommanahalli"
+ },
+ "PRM/KA/RERA/1251/446/PR/220425/007683": {
+  "lat": 12.9213,
+  "lon": 77.6643,
+  "area": "Bellandur"
+ },
+ "PRM/KA/RERA/1251/446/PR/220426/008598": {
+  "lat": 13.053,
+  "lon": 77.6932,
+  "area": "Hennur"
+ },
+ "PRM/KA/RERA/1251/446/PR/220626/008740": {
+  "lat": 12.8875,
+  "lon": 77.6387,
+  "area": "Bommanahalli"
+ },
+ "PRM/KA/RERA/1251/446/PR/230725/007949": {
+  "lat": 12.9232,
+  "lon": 77.6742,
+  "area": "Bellandur"
+ },
+ "PRM/KA/RERA/1251/446/PR/240225/007522": {
+  "lat": 13.067,
+  "lon": 77.6303,
+  "area": "Thanisandra"
+ },
+ "PRM/KA/RERA/1251/446/PR/250425/007692": {
+  "lat": 12.8745,
+  "lon": 77.6405,
+  "area": "Bommanahalli"
+ },
+ "PRM/KA/RERA/1251/446/PR/261224/007320": {
+  "lat": 12.9117,
+  "lon": 77.5706,
+  "area": "JP Nagar"
+ },
+ "PRM/KA/RERA/1251/446/PR/281024/007183": {
+  "lat": 13.1436,
+  "lon": 77.6178,
+  "area": "Bagalur"
+ },
+ "PRM/KA/RERA/1251/446/PR/300525/007802": {
+  "lat": 12.9127,
+  "lon": 77.4735,
+  "area": "Kengeri"
+ },
+ "PRM/KA/RERA/1251/446/PR/300924/007102": {
+  "lat": 12.9186,
+  "lon": 77.6736,
+  "area": "Bellandur"
+ },
+ "PRM/KA/RERA/1251/446/PR/311224/007332": {
+  "lat": 12.8401,
+  "lon": 77.6639,
+  "area": "Electronic City"
+ },
+ "PRM/KA/RERA/1251/472/PR/020724/006937": {
+  "lat": 13.1674,
+  "lon": 77.6305,
+  "area": "Bagalur"
+ },
+ "PRM/KA/RERA/1251/472/PR/031125/008217": {
+  "lat": 13.0781,
+  "lon": 77.6366,
+  "area": "Thanisandra"
+ },
+ "PRM/KA/RERA/1251/472/PR/040326/008503": {
+  "lat": 12.8725,
+  "lon": 77.5873,
+  "area": "Bannerghatta Road"
+ },
+ "PRM/KA/RERA/1251/472/PR/050526/008623": {
+  "lat": 12.9594,
+  "lon": 77.6383,
+  "area": "Old Airport Road"
+ },
+ "PRM/KA/RERA/1251/472/PR/060924/007009": {
+  "lat": 12.9955,
+  "lon": 77.6691,
+  "area": "CV Raman Nagar"
+ },
+ "PRM/KA/RERA/1251/472/PR/101025/008158": {
+  "lat": 12.9684,
+  "lon": 77.6032,
+  "area": "Indiranagar"
+ },
+ "PRM/KA/RERA/1251/472/PR/101025/008159": {
+  "lat": 12.9019,
+  "lon": 77.6604,
+  "area": "Haralur"
+ },
+ "PRM/KA/RERA/1251/472/PR/120126/008394": {
+  "lat": 12.9057,
+  "lon": 77.701,
+  "area": "Sarjapur Road"
+ },
+ "PRM/KA/RERA/1251/472/PR/200626/008731": {
+  "lat": 12.9218,
+  "lon": 77.6514,
+  "area": "HSR Layout"
+ },
+ "PRM/KA/RERA/1251/472/PR/210325/007605": {
+  "lat": 12.9399,
+  "lon": 77.5725,
+  "area": "Jayanagar"
+ },
+ "PRM/KA/RERA/1251/472/PR/230725/007948": {
+  "lat": 13.0225,
+  "lon": 77.5849,
+  "area": "Hebbal"
+ },
+ "PRM/KA/RERA/1251/472/PR/240724/006946": {
+  "lat": 12.9789,
+  "lon": 77.6941,
+  "area": "Kaggadasapura"
+ },
+ "PRM/KA/RERA/1251/472/PR/250225/007524": {
+  "lat": 13.0166,
+  "lon": 77.6574,
+  "area": "Hennur"
+ },
+ "PRM/KA/RERA/1251/472/PR/271025/008193": {
+  "lat": 12.8182,
+  "lon": 77.6748,
+  "area": "Chandapura"
+ },
+ "PRM/KA/RERA/1251/472/PR/300625/007880": {
+  "lat": 12.9569,
+  "lon": 77.6415,
+  "area": "Old Airport Road"
+ },
+ "PRM/KA/RERA/1251/472/PR/311225/008368": {
+  "lat": 12.9478,
+  "lon": 77.6466,
+  "area": "Old Airport Road"
+ },
+ "PRM/KA/RERA/1252/473/PR/060924/007006": {
+  "lat": 12.9263,
+  "lon": 77.4874,
+  "area": "Kengeri"
+ },
+ "PRM/KA/RERA/1254/460/PR/051125/008222": {
+  "lat": 12.9379,
+  "lon": 77.6217,
+  "area": "Koramangala"
+ },
+ "PRM/KA/RERA/1254/460/PR/250325/007621": {
+  "lat": 13.1159,
+  "lon": 77.5709,
+  "area": "Yelahanka"
+ },
+ "PRM/KA/RERA/1254/461/PR/270325/007630": {
+  "lat": 12.9582,
+  "lon": 77.6041,
+  "area": "Koramangala"
+ },
+ "PRM/KA/RERA/1254/462/PR/141025/008163": {
+  "lat": 12.9791,
+  "lon": 77.6654,
+  "area": "CV Raman Nagar"
+ },
+ "PRM/KA/RERA/1254/465/PR/250325/007622": {
+  "lat": 13.0372,
+  "lon": 77.6882,
+  "area": "Hennur"
+ },
+ "PRM/KA/RERA/1256/329/PR/221024/007166": {
+  "lat": 12.9193,
+  "lon": 77.4596,
+  "area": "Kengeri"
+ },
+ "PRM/KA/RERA/1257/333/PR/070226/008458": {
+  "lat": 12.8003,
+  "lon": 77.5775,
+  "area": "Bannerghatta Road"
+ },
+ "PRM/KA/RERA/1257/333/PR/091024/007136": {
+  "lat": 12.9056,
+  "lon": 77.6819,
+  "area": "Kasavanahalli"
+ },
+ "PRM/KA/RERA/1257/334/PR/051024/007129": {
+  "lat": 12.9766,
+  "lon": 77.708,
+  "area": "Marathahalli"
+ },
+ "PRM/KA/RERA/1257/334/PR/070226/008460": {
+  "lat": 12.9638,
+  "lon": 77.5856,
+  "area": "Jayanagar"
+ },
+ "PRM/KA/RERA/1257/334/PR/130125/007382": {
+  "lat": 12.7304,
+  "lon": 77.6741,
+  "area": "Attibele"
+ },
+ "PRM/KA/RERA/1257/334/PR/130225/007502": {
+  "lat": 13.0389,
+  "lon": 77.5942,
+  "area": "Hebbal"
+ },
+ "PRM/KA/RERA/1257/334/PR/160425/007672": {
+  "lat": 13.0886,
+  "lon": 77.6582,
+  "area": "Thanisandra"
+ },
+ "PRM/KA/RERA/1257/334/PR/170924/007022": {
+  "lat": 12.9585,
+  "lon": 77.5268,
+  "area": "RR Nagar"
+ },
+ "PRM/KA/RERA/1257/334/PR/170924/007024": {
+  "lat": 12.8928,
+  "lon": 77.6349,
+  "area": "Bommanahalli"
+ },
+ "PRM/KA/RERA/1257/334/PR/200626/008732": {
+  "lat": 12.9602,
+  "lon": 77.7224,
+  "area": "Marathahalli"
+ },
+ "PRM/KA/RERA/1257/334/PR/210325/007609": {
+  "lat": 12.9403,
+  "lon": 77.7048,
+  "area": "Panathur"
+ },
+ "PRM/KA/RERA/1257/334/PR/230626/008743": {
+  "lat": 12.9048,
+  "lon": 77.6306,
+  "area": "HSR Layout"
+ },
+ "PRM/KA/RERA/1257/334/PR/240226/008483": {
+  "lat": 12.8119,
+  "lon": 77.663,
+  "area": "Electronic City"
+ },
+ "PRM/KA/RERA/1257/334/PR/250825/008031": {
+  "lat": 13.1958,
+  "lon": 77.5503,
+  "area": "Yelahanka"
+ },
+ "PRM/KA/RERA/1257/334/PR/261125/008276": {
+  "lat": 12.8126,
+  "lon": 77.6868,
+  "area": "Chandapura"
+ },
+ "PRM/KA/RERA/1257/334/PR/271025/008184": {
+  "lat": 13.0128,
+  "lon": 77.6607,
+  "area": "CV Raman Nagar"
+ },
+ "PRM/KA/RERA/1257/335/PR/260925/008124": {
+  "lat": 12.904,
+  "lon": 77.6014,
+  "area": "BTM Layout"
+ },
+ "PRM/KA/RERA/1257/336/PR/250924/007070": {
+  "lat": 12.9379,
+  "lon": 77.5627,
+  "area": "Jayanagar"
+ },
+ "PRM/KA/RERA/1258/404/PR/100925/008084": {
+  "lat": 12.8409,
+  "lon": 77.6466,
+  "area": "Electronic City"
+ },
+ "PRM/KA/RERA/1258/404/PR/210924/007057": {
+  "lat": 12.9056,
+  "lon": 77.6819,
+  "area": "Kasavanahalli"
+ },
+ "PRM/KA/RERA/1258/404/PR/240326/008546": {
+  "lat": 13.0697,
+  "lon": 77.6189,
+  "area": "Thanisandra"
+ },
+ "PRM/KA/RERA/1258/404/PR/260526/008683": {
+  "lat": 12.9076,
+  "lon": 77.5525,
+  "area": "Kanakapura Road"
+ },
+ "PRM/KA/RERA/1259/410/PR/010126/008372": {
+  "lat": 12.9048,
+  "lon": 77.6306,
+  "area": "HSR Layout"
+ },
+ "PRM/KA/RERA/1259/410/PR/030525/007707": {
+  "lat": 13.0601,
+  "lon": 77.5586,
+  "area": "Hebbal"
+ },
+ "PRM/KA/RERA/1259/410/PR/051224/007266": {
+  "lat": 12.7709,
+  "lon": 77.6401,
+  "area": "Chandapura"
+ },
+ "PRM/KA/RERA/1259/479/PR/060125/007351": {
+  "lat": 12.7823,
+  "lon": 77.7464,
+  "area": "Attibele"
+ },
+ "PRM/KA/RERA/1259/479/PR/070526/008632": {
+  "lat": 13.008,
+  "lon": 77.5842,
+  "area": "Hebbal"
+ },
+ "PRM/KA/RERA/1259/479/PR/110325/007576": {
+  "lat": 12.9056,
+  "lon": 77.6819,
+  "area": "Kasavanahalli"
+ },
+ "PRM/KA/RERA/1259/479/PR/220526/008676": {
+  "lat": 12.8903,
+  "lon": 77.6191,
+  "area": "Bommanahalli"
+ },
+ "PRM/KA/RERA/1259/479/PR/270924/007087": {
+  "lat": 12.8875,
+  "lon": 77.6387,
+  "area": "Bommanahalli"
+ },
+ "PRM/KA/RERA/1259/503/PR/180426/008592": {
+  "lat": 12.9148,
+  "lon": 77.5944,
+  "area": "JP Nagar"
+ },
+ "PRM/KA/RERA/1259/503/PR/230326/008544": {
+  "lat": 13.1958,
+  "lon": 77.5503,
+  "area": "Yelahanka"
+ },
+ "PRM/KA/RERA/1259/503/PR/240426/008600": {
+  "lat": 13.016,
+  "lon": 77.637,
+  "area": "Hennur"
+ },
+ "PRM/KA/RERA/1263/419/PR/010426/008565": {
+  "lat": 12.909,
+  "lon": 77.5584,
+  "area": "Kanakapura Road"
+ },
+ "PRM/KA/RERA/1263/419/PR/090726/008797": {
+  "lat": 12.9106,
+  "lon": 77.6064,
+  "area": "BTM Layout"
+ },
+ "PRM/KA/RERA/1264/437/PR/110325/007577": {
+  "lat": 12.7908,
+  "lon": 77.7003,
+  "area": "Chandapura"
+ },
+ "PRM/KA/RERA/1264/438/PR/120225/007496": {
+  "lat": 12.9108,
+  "lon": 77.5748,
+  "area": "JP Nagar"
+ },
+ "PRM/KA/RERA/1264/439/PR/200525/007762": {
+  "lat": 13.0889,
+  "lon": 77.7107,
+  "area": "Bagalur"
+ },
+ "PRM/KA/RERA/1265/339/PR/010225/007469": {
+  "lat": 13.0133,
+  "lon": 77.5048,
+  "area": "Rajajinagar"
+ },
+ "PRM/KA/RERA/1265/339/PR/070226/008452": {
+  "lat": 13.1828,
+  "lon": 77.6378,
+  "area": "Bagalur"
+ },
+ "PRM/KA/RERA/1265/339/PR/070825/007983": {
+  "lat": 12.9843,
+  "lon": 77.6032,
+  "area": "Indiranagar"
+ },
+ "PRM/KA/RERA/1265/339/PR/130325/007580": {
+  "lat": 12.7766,
+  "lon": 77.634,
+  "area": "Chandapura"
+ },
+ "PRM/KA/RERA/1265/339/PR/130525/007738": {
+  "lat": 12.8373,
+  "lon": 77.6437,
+  "area": "Electronic City"
+ },
+ "PRM/KA/RERA/1265/339/PR/240226/008486": {
+  "lat": 13.035,
+  "lon": 77.6954,
+  "area": "Kaggadasapura"
+ },
+ "PRM/KA/RERA/1265/339/PR/311224/007333": {
+  "lat": 13.0723,
+  "lon": 77.601,
+  "area": "Yelahanka"
+ },
+ "PRM/KA/RERA/1265/341/PR/100426/008579": {
+  "lat": 13.046,
+  "lon": 77.6326,
+  "area": "Hennur"
+ },
+ "PRM/KA/RERA/1265/345/PR/101025/008156": {
+  "lat": 13.0317,
+  "lon": 77.6119,
+  "area": "Hebbal"
+ },
+ "PRM/KA/RERA/1265/347/PR/100426/008578": {
+  "lat": 12.9064,
+  "lon": 77.5212,
+  "area": "RR Nagar"
+ },
+ "PRM/KA/RERA/1265/347/PR/131224/007288": {
+  "lat": 12.8608,
+  "lon": 77.5934,
+  "area": "Bannerghatta Road"
+ },
+ "PRM/KA/RERA/1265/347/PR/210426/008594": {
+  "lat": 12.9273,
+  "lon": 77.6695,
+  "area": "Bellandur"
+ },
+ "PRM/KA/RERA/1265/347/PR/300525/007796": {
+  "lat": 12.9075,
+  "lon": 77.6432,
+  "area": "HSR Layout"
+ },
+ "PRM/KA/RERA/1266/390/PR/110625/007816": {
+  "lat": 12.9688,
+  "lon": 77.6671,
+  "area": "CV Raman Nagar"
+ },
+ "PRM/KA/RERA/1266/390/PR/300626/008771": {
+  "lat": 13.0409,
+  "lon": 77.6228,
+  "area": "Hennur"
+ },
+ "PRM/KA/RERA/1266/390/PR/300626/008776": {
+  "lat": 12.9438,
+  "lon": 77.6489,
+  "area": "Old Airport Road"
+ },
+ "PRM/KA/RERA/1267/374/PR/080626/008702": {
+  "lat": 12.974,
+  "lon": 77.6426,
+  "area": "Indiranagar"
+ },
+ "PRM/KA/RERA/1267/375/PR/091225/008322": {
+  "lat": 13.0477,
+  "lon": 77.5069,
+  "area": "Rajajinagar"
+ },
+ "PRM/KA/RERA/1267/484/PR/300626/008775": {
+  "lat": 12.9569,
+  "lon": 77.6415,
+  "area": "Old Airport Road"
+ },
+ "PRM/KA/RERA/1268/378/PR/011024/007108": {
+  "lat": 12.8579,
+  "lon": 77.7828,
+  "area": "Kodathi"
+ },
+ "PRM/KA/RERA/1268/378/PR/020126/008376": {
+  "lat": 13.0098,
+  "lon": 77.6622,
+  "area": "CV Raman Nagar"
+ },
+ "PRM/KA/RERA/1268/378/PR/020726/008781": {
+  "lat": 12.8139,
+  "lon": 77.7254,
+  "area": "Attibele"
+ },
+ "PRM/KA/RERA/1268/378/PR/030325/007536": {
+  "lat": 13.0477,
+  "lon": 77.5069,
+  "area": "Rajajinagar"
+ },
+ "PRM/KA/RERA/1268/378/PR/051225/008316": {
+  "lat": 12.8004,
+  "lon": 77.706,
+  "area": "Chandapura"
+ },
+ "PRM/KA/RERA/1268/378/PR/060225/007486": {
+  "lat": 13.062,
+  "lon": 77.4617,
+  "area": "Nelamangala"
+ },
+ "PRM/KA/RERA/1268/378/PR/060925/008063": {
+  "lat": 12.9762,
+  "lon": 77.6013,
+  "area": "Indiranagar"
+ },
+ "PRM/KA/RERA/1268/378/PR/100726/008805": {
+  "lat": 12.9532,
+  "lon": 77.6218,
+  "area": "Koramangala"
+ },
+ "PRM/KA/RERA/1268/378/PR/110625/007814": {
+  "lat": 12.8994,
+  "lon": 77.6498,
+  "area": "Haralur"
+ },
+ "PRM/KA/RERA/1268/378/PR/110625/007815": {
+  "lat": 13.0875,
+  "lon": 77.6246,
+  "area": "Thanisandra"
+ },
+ "PRM/KA/RERA/1268/378/PR/111124/007216": {
+  "lat": 13.0406,
+  "lon": 77.5681,
+  "area": "Hebbal"
+ },
+ "PRM/KA/RERA/1268/378/PR/181224/007306": {
+  "lat": 12.8938,
+  "lon": 77.5609,
+  "area": "Kanakapura Road"
+ },
+ "PRM/KA/RERA/1268/378/PR/200225/007519": {
+  "lat": 12.9297,
+  "lon": 77.5726,
+  "area": "Jayanagar"
+ },
+ "PRM/KA/RERA/1268/378/PR/200626/008735": {
+  "lat": 12.9764,
+  "lon": 77.6196,
+  "area": "Indiranagar"
+ },
+ "PRM/KA/RERA/1268/378/PR/210126/008419": {
+  "lat": 12.9841,
+  "lon": 77.5782,
+  "area": "Rajajinagar"
+ },
+ "PRM/KA/RERA/1268/378/PR/210526/008670": {
+  "lat": 12.9727,
+  "lon": 77.6654,
+  "area": "CV Raman Nagar"
+ },
+ "PRM/KA/RERA/1268/378/PR/211124/007244": {
+  "lat": 12.9019,
+  "lon": 77.6604,
+  "area": "Haralur"
+ },
+ "PRM/KA/RERA/1268/378/PR/290125/007449": {
+  "lat": 13.0261,
+  "lon": 77.6604,
+  "area": "Hennur"
+ },
+ "PRM/KA/RERA/1268/378/PR/300125/007456": {
+  "lat": 12.836,
+  "lon": 77.6957,
+  "area": "Chandapura"
+ },
+ "PRM/KA/RERA/1268/378/PR/300625/007881": {
+  "lat": 13.0477,
+  "lon": 77.5069,
+  "area": "Rajajinagar"
+ },
+ "PRM/KA/RERA/1268/380/PR/230925/008114": {
+  "lat": 12.7817,
+  "lon": 77.7639,
+  "area": "Attibele"
+ },
+ "PRM/KA/RERA/1268/381/PR/050626/008701": {
+  "lat": 13.1126,
+  "lon": 77.4653,
+  "area": "Nelamangala"
+ },
+ "PRM/KA/RERA/1270/302/PR/281025/008196": {
+  "lat": 12.8998,
+  "lon": 77.5509,
+  "area": "Kanakapura Road"
+ },
+ "PRM/KA/RERA/1270/305/PR/070726/008794": {
+  "lat": 12.9056,
+  "lon": 77.5853,
+  "area": "JP Nagar"
+ },
+ "PRM/KA/RERA/1271/486/PR/110325/007573": {
+  "lat": 13.1614,
+  "lon": 77.6264,
+  "area": "Bagalur"
+ },
+ "PRM/KA/RERA/1271/486/PR/130526/008645": {
+  "lat": 12.8882,
+  "lon": 77.597,
+  "area": "Bannerghatta Road"
+ },
+ "PRM/KA/RERA/1271/486/PR/140225/007505": {
+  "lat": 12.96,
+  "lon": 77.5257,
+  "area": "RR Nagar"
+ },
+ "PRM/KA/RERA/1271/486/PR/150725/007919": {
+  "lat": 13.0687,
+  "lon": 77.4846,
+  "area": "Nelamangala"
+ },
+ "PRM/KA/RERA/1272/394/PR/040325/007542": {
+  "lat": 13.0073,
+  "lon": 77.5149,
+  "area": "Rajajinagar"
+ },
+ "PRM/KA/RERA/1272/394/PR/041225/008308": {
+  "lat": 12.9079,
+  "lon": 77.6062,
+  "area": "BTM Layout"
+ },
+ "PRM/KA/RERA/1272/394/PR/070425/007659": {
+  "lat": 13.0798,
+  "lon": 77.5489,
+  "area": "Yelahanka"
+ },
+ "PRM/KA/RERA/1272/394/PR/080125/007362": {
+  "lat": 12.8934,
+  "lon": 77.6256,
+  "area": "Bommanahalli"
+ },
+ "PRM/KA/RERA/1272/394/PR/081025/008148": {
+  "lat": 12.9256,
+  "lon": 77.6696,
+  "area": "Bellandur"
+ },
+ "PRM/KA/RERA/1272/394/PR/081025/008150": {
+  "lat": 12.9267,
+  "lon": 77.6712,
+  "area": "Bellandur"
+ },
+ "PRM/KA/RERA/1272/394/PR/090725/007906": {
+  "lat": 13.0847,
+  "lon": 77.5003,
+  "area": "Yelahanka"
+ },
+ "PRM/KA/RERA/1272/394/PR/100626/008715": {
+  "lat": 12.9207,
+  "lon": 77.647,
+  "area": "HSR Layout"
+ },
+ "PRM/KA/RERA/1272/394/PR/100726/008804": {
+  "lat": 12.9168,
+  "lon": 77.6047,
+  "area": "BTM Layout"
+ },
+ "PRM/KA/RERA/1272/394/PR/130226/008467": {
+  "lat": 12.9079,
+  "lon": 77.6062,
+  "area": "BTM Layout"
+ },
+ "PRM/KA/RERA/1272/394/PR/141025/008166": {
+  "lat": 13.0687,
+  "lon": 77.4846,
+  "area": "Nelamangala"
+ },
+ "PRM/KA/RERA/1272/394/PR/170625/007845": {
+  "lat": 12.9046,
+  "lon": 77.4625,
+  "area": "Kengeri"
+ },
+ "PRM/KA/RERA/1272/394/PR/180625/007848": {
+  "lat": 13.0405,
+  "lon": 77.6145,
+  "area": "Hebbal"
+ },
+ "PRM/KA/RERA/1272/394/PR/220725/007943": {
+  "lat": 13.005,
+  "lon": 77.6674,
+  "area": "CV Raman Nagar"
+ },
+ "PRM/KA/RERA/1272/394/PR/250526/008681": {
+  "lat": 13.0148,
+  "lon": 77.6345,
+  "area": "Hennur"
+ },
+ "PRM/KA/RERA/1272/394/PR/260325/007629": {
+  "lat": 13.0774,
+  "lon": 77.4388,
+  "area": "Nelamangala"
+ },
+ "PRM/KA/RERA/1272/394/PR/260825/008036": {
+  "lat": 12.9712,
+  "lon": 77.7675,
+  "area": "Whitefield"
+ },
+ "PRM/KA/RERA/1272/394/PR/290425/007701": {
+  "lat": 12.8897,
+  "lon": 77.6148,
+  "area": "Bommanahalli"
+ },
+ "PRM/KA/RERA/1272/394/PR/290925/008128": {
+  "lat": 12.9005,
+  "lon": 77.5598,
+  "area": "Kanakapura Road"
+ },
+ "PRM/KA/RERA/1272/394/PR/291125/008290": {
+  "lat": 13.1145,
+  "lon": 77.4889,
+  "area": "Nelamangala"
+ },
+ "PRM/KA/RERA/1272/394/PR/300126/008437": {
+  "lat": 12.8995,
+  "lon": 77.648,
+  "area": "Haralur"
+ },
+ "PRM/KA/RERA/1272/394/PR/300426/008612": {
+  "lat": 12.8848,
+  "lon": 77.6494,
+  "area": "Haralur"
+ },
+ "PRM/KA/RERA/1272/394/PR/310725/007958": {
+  "lat": 13.1003,
+  "lon": 77.4642,
+  "area": "Nelamangala"
+ },
+ "PRM/KA/RERA/1272/394/PR/310725/007959": {
+  "lat": 12.8848,
+  "lon": 77.6494,
+  "area": "Haralur"
+ },
+ "PRM/KA/RERA/1272/394/PR/311225/008369": {
+  "lat": 13.0687,
+  "lon": 77.4846,
+  "area": "Nelamangala"
+ },
+ "PRM/KA/RERA/1272/398/PR/090725/007907": {
+  "lat": 12.9079,
+  "lon": 77.6062,
+  "area": "BTM Layout"
+ },
+ "PRM/KA/RERA/1272/400/PR/190924/007047": {
+  "lat": 12.917,
+  "lon": 77.6152,
+  "area": "BTM Layout"
+ },
+ "PRM/KA/RERA/1272/400/PR/270924/007090": {
+  "lat": 13.0077,
+  "lon": 77.7022,
+  "area": "Kaggadasapura"
+ },
+ "PRM/KA/RERA/1272/401/PR/040726/008789": {
+  "lat": 12.8117,
+  "lon": 77.6683,
+  "area": "Chandapura"
+ },
+ "PRM/KA/RERA/1272/401/PR/170425/007678": {
+  "lat": 12.9517,
+  "lon": 77.5664,
+  "area": "Jayanagar"
+ },
+ "PRM/KA/RERA/1272/401/PR/210325/007607": {
+  "lat": 13.0417,
+  "lon": 77.6216,
+  "area": "Thanisandra"
+ },
+ "PRM/KA/RERA/1272/401/PR/260825/008034": {
+  "lat": 12.9553,
+  "lon": 77.6374,
+  "area": "Old Airport Road"
+ },
+ "PRM/KA/RERA/1272/401/PR/270924/007091": {
+  "lat": 12.9591,
+  "lon": 77.5084,
+  "area": "RR Nagar"
+ },
+ "PRM/KA/RERA/1272/401/PR/280725/007955": {
+  "lat": 13.0732,
+  "lon": 77.7862,
+  "area": "Hoskote"
+ },
+ "PRM/KA/RERA/1273/318/PR/041024/007122": {
+  "lat": 12.9826,
+  "lon": 77.6074,
+  "area": "Indiranagar"
+ },
+ "PRM/KA/RERA/1273/318/PR/160425/007673": {
+  "lat": 12.998,
+  "lon": 77.6287,
+  "area": "Indiranagar"
+ },
+ "PRM/KA/RERA/1273/318/PR/261125/008278": {
+  "lat": 12.8921,
+  "lon": 77.5901,
+  "area": "Bannerghatta Road"
+ },
+ "PRM/KA/RERA/1273/318/PR/291124/007260": {
+  "lat": 12.9127,
+  "lon": 77.6386,
+  "area": "HSR Layout"
+ },
+ "PRM/KA/RERA/1273/318/PR/300625/007884": {
+  "lat": 12.9751,
+  "lon": 77.6699,
+  "area": "CV Raman Nagar"
+ },
+ "PRM/KA/RERA/1273/319/PR/050325/007546": {
+  "lat": 12.8818,
+  "lon": 77.628,
+  "area": "Bommanahalli"
+ },
+ "PRM/KA/RERA/1273/319/PR/250523/007777": {
+  "lat": 12.9948,
+  "lon": 77.5982,
+  "area": "Hebbal"
+ },
+ "PRM/KA/RERA/1273/488/PR/080426/008576": {
+  "lat": 13.0177,
+  "lon": 77.6851,
+  "area": "Kaggadasapura"
+ },
+ "PRM/KA/RERA/1273/518/PR/150526/008660": {
+  "lat": 12.9652,
+  "lon": 77.574,
+  "area": "Rajajinagar"
+ },
+ "PRM/KA/RERA/1274/351/PR/170924/007019": {
+  "lat": 12.9056,
+  "lon": 77.6819,
+  "area": "Kasavanahalli"
+ },
+ "PRM/KA/RERA/1274/351/PR/261125/008274": {
+  "lat": 13.0612,
+  "lon": 77.535,
+  "area": "Hebbal"
+ },
+ "PRM/KA/RERA/1274/352/PR/280525/007788": {
+  "lat": 12.9176,
+  "lon": 77.6055,
+  "area": "BTM Layout"
+ },
+ "PRM/KA/RERA/1274/353/PR/150526/008656": {
+  "lat": 12.9056,
+  "lon": 77.6819,
+  "area": "Kasavanahalli"
+ },
+ "PRM/KA/RERA/1275/448/PR/271025/008189": {
+  "lat": 12.9011,
+  "lon": 77.5592,
+  "area": "Kanakapura Road"
+ },
+ "PRM/KA/RERA/1669/440/PR/031025/008138": {
+  "lat": 13.0399,
+  "lon": 77.567,
+  "area": "Hebbal"
+ },
+ "PRM/KA/RERA/1669/440/PR/090326/008515": {
+  "lat": 12.9697,
+  "lon": 77.6962,
+  "area": "Marathahalli"
+ },
+ "PRM/KA/RERA/1669/440/PR/110725/007917": {
+  "lat": 13.1145,
+  "lon": 77.4889,
+  "area": "Nelamangala"
+ },
+ "PRM/KA/RERA/1669/440/PR/130525/007733": {
+  "lat": 12.9659,
+  "lon": 77.524,
+  "area": "RR Nagar"
+ },
+ "TOR/PRM/KA/RERA/1251/310/PR/250304/000047": {
+  "lat": 12.9274,
+  "lon": 77.6288,
+  "area": "Koramangala"
+ },
+ "TOR/PRM/KA/RERA/1251/446/PR/250915/000308": {
+  "lat": 12.9061,
+  "lon": 77.5631,
+  "area": "Kanakapura Road"
+ },
+ "SAMPLE/0001": {
+  "lat": 12.95,
+  "lon": 77.7,
+  "area": "Marathahalli"
+ }
+}

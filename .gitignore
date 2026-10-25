@@ -1,0 +1,22 @@
+# secrets
+.env
+.env.local
+*.key
+.tomtom_key
+*_session.json
+*credentials*.json
+
+# python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# os / editor
+.DS_Store
+.idea/
+.vscode/
+.hypothesis/

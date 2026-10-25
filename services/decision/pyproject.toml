@@ -1,0 +1,19 @@
+[project]
+name = "decision-svc"
+version = "0.1.0"
+description = "Decision orchestrator: composes real-estate, hospitals, schools into a verdict"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.34",
+    "platform-common",
+    "service-kit",
+    "bhi-contracts",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/decision_svc"]

@@ -1,0 +1,17 @@
+[project]
+name = "service-kit"
+version = "0.1.0"
+description = "Shared FastAPI app factory: health, readiness, metrics, error mapping"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115",
+    "prometheus-client>=0.21",
+    "platform-common",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/service_kit"]

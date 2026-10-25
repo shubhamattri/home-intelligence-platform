@@ -1,0 +1,19 @@
+[project]
+name = "platform-common"
+version = "0.1.0"
+description = "Shared platform utilities: geo, config, logging, http, errors"
+requires-python = ">=3.12"
+dependencies = [
+    "pydantic>=2.10",
+    "pydantic-settings>=2.7",
+    "httpx>=0.28",
+    "tenacity>=9.0",
+    "structlog>=24.4",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/platform_common"]

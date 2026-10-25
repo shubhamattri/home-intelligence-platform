@@ -1,0 +1,71 @@
+image:
+  repository: ghcr.io/shubhamattri/bhi
+  tag: latest
+  pullPolicy: IfNotPresent
+
+# One entry per FastAPI service. `database` (optional) points at a Postgres release.
+services:
+  real-estate-svc:
+    port: 8001
+    module: real_estate_svc.main:app
+    path: /re
+    replicas: 2
+    database: postgres-re
+    redis: true
+  hospitals-svc:
+    port: 8002
+    module: hospitals_svc.main:app
+    path: /hosp
+    replicas: 2
+  schools-svc:
+    port: 8003
+    module: schools_svc.main:app
+    path: /sch
+    replicas: 2
+    database: postgres-sch
+  decision-svc:
+    port: 8000
+    module: decision_svc.main:app
+    path: /dec
+    replicas: 2
+    orchestrator: true
+
+redis:
+  enabled: true
+
+# DB-per-service. The key is the K8s object/host name (DNS-safe); `db` is the actual
+# Postgres database name. Each becomes a StatefulSet + Service resolvable in-cluster.
+postgres:
+  postgres-re:
+    db: real_estate_db
+    user: bhi
+    password: bhi
+    storage: 2Gi
+  postgres-sch:
+    db: schools_db
+    user: bhi
+    password: bhi
+    storage: 1Gi
+
+ingress:
+  enabled: true
+  className: nginx
+  host: bhi.local
+
+hpa:
+  enabled: true
+  minReplicas: 2
+  maxReplicas: 6
+  targetCPUUtilizationPercentage: 70
+
+metrics:
+  serviceMonitor: true
+  interval: 30s
+
+resources:
+  requests:
+    cpu: 100m
+    memory: 128Mi
+  limits:
+    cpu: 500m
+    memory: 512Mi
